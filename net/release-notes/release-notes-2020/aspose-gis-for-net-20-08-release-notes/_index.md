@@ -25,28 +25,28 @@ This page contains release notes information for [Aspose.GIS for .NET 20.08](htt
 ## **Public API and Backward Incompatible Changes**
 Following members have been added:
 
-P:Aspose.Gis.Drivers.XyzTiles
-T:Aspose.Gis.Formats.XyzTile.XyzConnection
-M:Aspose.Gis.Formats.XyzTile.XyzConnection.#ctor(System.String)
-P:Aspose.Gis.Formats.XyzTile.XyzConnection.Url
-T:Aspose.Gis.Formats.XyzTile.XyzTiles
-M:Aspose.Gis.Formats.XyzTile.XyzTiles.#ctor(Aspose.Gis.Formats.XyzTile.XyzConnection)
-M:Aspose.Gis.Formats.XyzTile.XyzTiles.GetTiles(System.Int32,Aspose.Gis.Extent)
-M:Aspose.Gis.Formats.XyzTile.XyzTiles.GetTile(System.Int32,System.Int32,System.Int32)
-M:Aspose.Gis.Formats.XyzTile.XyzTiles.Dispose
-T:Aspose.Gis.Formats.XyzTile.XyzTilesDriver
-M:Aspose.Gis.Formats.XyzTile.XyzTilesDriver.#ctor
-M:Aspose.Gis.Formats.XyzTile.XyzTilesDriver.OpenLayer(Aspose.Gis.Formats.XyzTile.XyzConnection)
-P:Aspose.Gis.Rendering.Colorizers.MultiBandColor.AlphaBand
-T:Aspose.Gis.Rendering.Colorizers.SingleBandColor
-M:Aspose.Gis.Rendering.Colorizers.SingleBandColor.#ctor
-P:Aspose.Gis.Rendering.Colorizers.SingleBandColor.GrayBand
-P:Aspose.Gis.Rendering.RasterMapLayer.Colorizer
-P:Aspose.Gis.Rendering.RasterMapLayer.Resampling
-T:Aspose.Gis.Rendering.RasterMapResampling
-M:Aspose.Gis.Rendering.RasterMapResampling.#ctor
-P:Aspose.Gis.Rendering.RasterMapResampling.Width
-P:Aspose.Gis.Rendering.RasterMapResampling.Height
+- P:Aspose.Gis.Drivers.XyzTiles
+- T:Aspose.Gis.Formats.XyzTile.XyzConnection
+- M:Aspose.Gis.Formats.XyzTile.XyzConnection.#ctor(System.String)
+- P:Aspose.Gis.Formats.XyzTile.XyzConnection.Url
+- T:Aspose.Gis.Formats.XyzTile.XyzTiles
+- M:Aspose.Gis.Formats.XyzTile.XyzTiles.#ctor(Aspose.Gis.Formats.XyzTile.XyzConnection)
+- M:Aspose.Gis.Formats.XyzTile.XyzTiles.GetTiles(System.Int32,Aspose.Gis.Extent)
+- M:Aspose.Gis.Formats.XyzTile.XyzTiles.GetTile(System.Int32,System.Int32,System.Int32)
+- M:Aspose.Gis.Formats.XyzTile.XyzTiles.Dispose
+- T:Aspose.Gis.Formats.XyzTile.XyzTilesDriver
+- M:Aspose.Gis.Formats.XyzTile.XyzTilesDriver.#ctor
+- M:Aspose.Gis.Formats.XyzTile.XyzTilesDriver.OpenLayer(Aspose.Gis.Formats.XyzTile.XyzConnection)
+- P:Aspose.Gis.Rendering.Colorizers.MultiBandColor.AlphaBand
+- T:Aspose.Gis.Rendering.Colorizers.SingleBandColor
+- M:Aspose.Gis.Rendering.Colorizers.SingleBandColor.#ctor
+- P:Aspose.Gis.Rendering.Colorizers.SingleBandColor.GrayBand
+- P:Aspose.Gis.Rendering.RasterMapLayer.Colorizer
+- P:Aspose.Gis.Rendering.RasterMapLayer.Resampling
+- T:Aspose.Gis.Rendering.RasterMapResampling
+- M:Aspose.Gis.Rendering.RasterMapResampling.#ctor
+- P:Aspose.Gis.Rendering.RasterMapResampling.Width
+- P:Aspose.Gis.Rendering.RasterMapResampling.Height
 
 Following members have been removed:
-none
+- none
