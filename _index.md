@@ -7,7 +7,7 @@ url: /
 
 {{% alert color="primary" %}} 
 
-![todo:image_alt_text](aspose-gis-for-net_1.png)
+![aspose-gis-logo](aspose-gis-for-net_1.png)
 
 **Welcome to Aspose.GIS for .NET**
 
