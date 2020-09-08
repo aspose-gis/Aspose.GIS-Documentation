@@ -1,13 +1,13 @@
 ---
-title: "Aspose.GIS for .NET 20.9 Release Notes"
+title: "Aspose.GIS for .NET 20.09 Release Notes"
 type: docs
-url: /net/aspose-gis-for-net-20-9-release-notes/
+url: /net/aspose-gis-for-net-20-09-release-notes/
 weight: 7
 ---
 
 {{% alert color="primary" %}} 
 
-This page contains release notes information for [Aspose.GIS for .NET 20.9](https://www.nuget.org/packages/Aspose.GIS/20.9.0).
+This page contains release notes information for [Aspose.GIS for .NET 20.09](https://www.nuget.org/packages/Aspose.GIS/20.09.0).
 
 {{% /alert %}} 
 ## **Major Features**
