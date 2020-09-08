@@ -19,6 +19,7 @@ In addition to the symbolizers that do actual drawing, there is a number of othe
 |**Layered Symbolizer**|[LayeredSymbolizer](https://apireference.aspose.com/net/gis/aspose.gis.rendering.symbolizers/layeredsymbolizer)|Draws a feature with several symbolizers on top of each other|
 |**Mixed Geometry Symbolizer**|[MixedGeometrySymbolizer](https://apireference.aspose.com/net/gis/aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer)|Draws features from layers that contain geometries of mixed types with a specific symbolizer for each geometry type|
 |**Rule-Based Symbolizer**|[RuleBasedSymbolizer](https://apireference.aspose.com/net/gis/aspose.gis.rendering.symbolizers/rulebasedsymbolizer)|Selects a symbolizer to apply to a feature by rules specified by the user.|
+|**Marker Cluster Symbolizer**|[MarkerCluster](https://apireference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/markercluster)|Draws clustering of markers, grouping of these items.|
 |**Geometry Generator Symbolizer**|[GeometryGenerator](https://apireference.aspose.com/net/gis/aspose.gis.rendering.symbolizers/geometrygenerator)|Allow to substitute the feature geometry before rendering.|
 |**Null Symbolizer**|[NullVectorSymbolizer](https://apireference.aspose.com/net/gis/aspose.gis.rendering.symbolizers/nullvectorsymbolizer)|Doesn't draw anything. Useful when combined with other symbolizers, such as the rule-based symbolizer.|
 

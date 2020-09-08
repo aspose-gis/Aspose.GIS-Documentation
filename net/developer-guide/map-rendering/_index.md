@@ -20,7 +20,7 @@ Here’s the result:
 
 
 
-![todo:image_alt_text](map-rendering_1.png)
+![map rendering](map_rendering.png)
 
 Let’s take a closer look at the code.
 
@@ -34,7 +34,7 @@ Finally, we call [Map.Render](https://apireference.aspose.com/net/gis/aspose.gis
 ## **Advanced Styling**
 With Aspose.GIS API, you can customize rendering and feature styles in order to achieve the look you want. 
 
-![todo:image_alt_text](map-rendering_2.png)
+![advanced styling](advanced_styling.png)
 
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Examples-CSharp-Rendering-RenderMap-AddMapLayersAndStyles.cs" >}}
 ## **Draw raster in map**
@@ -44,18 +44,18 @@ Here’s how to render a map from a GeoTIFF to SVG using default settings:
 
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Examples-CSharp-Rendering-RenderRasterFormats-DrawRasterDefaultSettings.cs" >}}
 
-![todo:image_alt_text](map-rendering_3.png)
+![default raster](default_raster.png)
 ### **Render skew rasters**
 With Aspose.GIS you can render a raster with skew raster cells.
 
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Examples-CSharp-Rendering-RenderRasterFormats-DrawSkewRaster.cs" >}}
 
-![todo:image_alt_text](map-rendering_4.png)
+![skew raster](skew_raster.png)
 ### **Render in polar spatial reference**
 Aspose.GIS lets you using polar spatial references on a map rendering process.
 
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Examples-CSharp-Rendering-RenderRasterFormats-DrawPolarRasterExtent.cs" >}}
 
-![todo:image_alt_text](map-rendering_5.png)
+![gnomonic countries](gnomonic_countries.png)
 
 
