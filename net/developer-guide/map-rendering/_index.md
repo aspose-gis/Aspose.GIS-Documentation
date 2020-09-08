@@ -6,7 +6,7 @@ weight: 40
 ---
 
 ## **Map Rendering Overview**
-With Aspose.GIS for .NET you can render a map from a Shapefile, FileGDB, GeoJSON, KML or other [supported file formats](/gis/net/supported-file-formats-html/) to SVG, PNG, JPEG, or BMP.
+With Aspose.GIS for .NET you can render a map from a Shapefile, FileGDB, GeoJSON, KML or other [supported file formats](/gis/net/supported-file-formats/) to SVG, PNG, JPEG, or BMP.
 
 Here’s how to render a map from a shapefile to SVG using default settings:
 
