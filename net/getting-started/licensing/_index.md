@@ -58,6 +58,9 @@ license.SetLicense(myStream);
 
 
 When you call SetLicense method, the license name should be same as that of your license file name. For example, you may change the license file name to "Aspose.GIS.lic.xml". Then in your code, you should use the modified license name (that is Aspose.GIS.lic.xml) for the SetLicense method.
+
+
+
 ## **Including the License File as an Embedded Resource**
 Another neat way of packaging the license with your application and making sure it will not be lost, is to include it as an embedded resource into one of the assemblies that calls the dll of the component (included in Aspose.GIS). To include the license file as an embedded resource, perform the following steps:
 
@@ -78,3 +81,36 @@ Aspose.Gis.License license = new Aspose.Gis.License();
 license.SetLicense("Aspose.GIS.lic");
 
 {{< /highlight >}}
+
+## **Applying Metered Key**
+[Aspose.Gis for .NET API](/gis/net/) allow developers to apply metered key. It is a new licensing mechanism. The new licensing mechanism will be used along with existing licensing method. Those customers who want to be billed based on the usage of the API features can use the metered licensing. For more details, please refer to [Metered Licensing FAQ](https://purchase.aspose.com/faqs/licensing/metered) section.
+
+A new class **Metered** has been introduced to apply metered key. Following is the sample code demonstrating how to set metered public and private key.
+
+**[C#]**
+
+{{< highlight csharp >}}
+
+ // set metered public and private keys
+
+Aspose.Gid.Metered metered = new Aspose.BarCode.Metered();
+
+// Access the setMeteredKey property and pass public and private keys as parameters
+
+metered.SetMeteredKey("*****", "*****");
+
+// DO PROCESSING
+
+// get metered data amount
+
+decimal amount = Aspose.BarCode.Metered.GetConsumptionQuantity();
+
+// Display information
+
+Console.WriteLine("Amount Consumed : " + amount.ToString());
+
+
+{{< /highlight >}}
+
+
+
