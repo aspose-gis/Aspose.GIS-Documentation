@@ -1,7 +1,7 @@
 ---
 title: "Aspose.GIS for .NET 20.9 Release Notes"
 type: docs
-url: /net/aspose-gis-for-net-20-09-release-notes/
+url: /net/aspose-gis-for-net-20-9-release-notes/
 weight: 7
 ---
 

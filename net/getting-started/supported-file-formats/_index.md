@@ -12,16 +12,16 @@ The following table indicates the vector formats that Aspose.GIS for .NET can re
 
 |**Description**|**Format**|**Read**|**Write**|
 | :- | :- | :- | :- |
-|ESRI Shapefile|.shp, .shx, .dbf, .qix, .cpg|![todo:image_alt_text](supported-file-formats_1)|![todo:image_alt_text](supported-file-formats_1)|
-|GeoJSON|.json, .geojson|![todo:image_alt_text](supported-file-formats_1)|![todo:image_alt_text](supported-file-formats_1)|
-|ESRI File Geodatabase (FileGDB)|.gdb|![todo:image_alt_text](supported-file-formats_1)|![todo:image_alt_text](supported-file-formats_1)|
-|Geography Markup Language|.gml|![todo:image_alt_text](supported-file-formats_1)| |
-|Keyhole Markup Language|.kml|![todo:image_alt_text](supported-file-formats_1)|![todo:image_alt_text](supported-file-formats_1)|
-|GPS Exchange Format|.gpx|![todo:image_alt_text](supported-file-formats_1)| |
-|TopoJSON|.json, .topojson|![todo:image_alt_text](supported-file-formats_1)|![todo:image_alt_text](supported-file-formats_1)|
-|MapInfo Interchange Format|.mif|![todo:image_alt_text](supported-file-formats_1)| |
-|MapInfo TAB format|.tab, .dat, .dbf, .map, .id|![todo:image_alt_text](supported-file-formats_1)|![todo:image_alt_text](supported-file-formats_1)|
-|OpenStreetMap (OSM) XML|.osm|![todo:image_alt_text](supported-file-formats_1)| |
+|ESRI Shapefile|.shp, .shx, .dbf, .qix, .cpg|![ok-supported](ok.png)|![ok-supported](ok.png)|
+|GeoJSON|.json, .geojson|![ok-supported](ok.png)|![ok-supported](ok.png)|
+|ESRI File Geodatabase (FileGDB)|.gdb|![ok-supported](ok.png)|![ok-supported](ok.png)|
+|Geography Markup Language|.gml|![ok-supported](ok.png)| |
+|Keyhole Markup Language|.kml|![ok-supported](ok.png)|![ok-supported](ok.png)|
+|GPS Exchange Format|.gpx|![ok-supported](ok.png)| |
+|TopoJSON|.json, .topojson|![ok-supported](ok.png)|![ok-supported](ok.png)|
+|MapInfo Interchange Format|.mif|![ok-supported](ok.png)| |
+|MapInfo TAB format|.tab, .dat, .dbf, .map, .id|![ok-supported](ok.png)|![ok-supported](ok.png)|
+|OpenStreetMap (OSM) XML|.osm|![ok-supported](ok.png)| |
 ## **Databases**
 The following table indicates the supported databases.
 
@@ -29,8 +29,8 @@ The following table indicates the supported databases.
 
 |**Description**|**Read**|**Write**|
 | :- | :- | :- |
-|Post GIS|![todo:image_alt_text](supported-file-formats_1)|![todo:image_alt_text](supported-file-formats_1)|
-|SQL Server (MS SQL)|![todo:image_alt_text](supported-file-formats_1)|![todo:image_alt_text](supported-file-formats_1)|
+|Post GIS|![ok-supported](ok.png)|![ok-supported](ok.png)|
+|SQL Server (MS SQL)|![ok-supported](ok.png)|![ok-supported](ok.png)|
 ## **Raster Formats**
 The following table indicates the raster formats that Aspose.GIS for .NET can only read.
 
@@ -38,8 +38,8 @@ The following table indicates the raster formats that Aspose.GIS for .NET can on
 
 |**Description**|**Format**|**Read**|
 | :- | :- | :- |
-|Geo TIFF, TIFF|.tiff, .tif|![todo:image_alt_text](supported-file-formats_1)|
-|Esri ASCII|.ascii|![todo:image_alt_text](supported-file-formats_1)|
+|Geo TIFF, TIFF|.tiff, .tif|![ok-supported](ok.png)|
+|Esri ASCII|.ascii|![ok-supported](ok.png)|
 ## **Map Rendering Formats**
 Maps can be rendered into the following formats:
 
