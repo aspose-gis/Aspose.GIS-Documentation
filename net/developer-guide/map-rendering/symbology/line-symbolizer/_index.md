@@ -66,4 +66,4 @@ For more advanced scenarios, you might want to adjust the line style dynamically
 
 
 -----
-You might also want to add labels to your lines. Visit [Lines Labeling Examples](/gis/net/simple-labeling-html/#simplelabeling-lineslabelingexamples) for examples.
+You might also want to add labels to your lines. Visit [Lines Labeling Examples](/gis/net/simple-labeling/#simplelabeling-lineslabelingexamples) for examples.

@@ -13,7 +13,7 @@ This page contains release notes information for Aspose.GIS for .NET 19.4.
 ## **Major Features**
 Major features and improvements in this release:
 
-- [Map rendering API and support for export to SVG](/gis/net/map-rendering-html/)
+- [Map rendering API and support for export to SVG](/gis/net/map-rendering/)
 - Convert between datums if SRS WKT definition is not complete
 ## **Full List of Issues Covering all Changes in this Release**
 

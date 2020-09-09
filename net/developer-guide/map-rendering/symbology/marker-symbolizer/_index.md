@@ -83,6 +83,6 @@ For more advanced scenarios, you might want to adjust the marker style dynamical
 
 
 -----
-You might also want to add labels to your markers. Visit [Points Labeling Examples](/gis/net/simple-labeling-html/#simplelabeling-pointslabelingexamples) for examples.
+You might also want to add labels to your markers. Visit [Points Labeling Examples](/gis/net/simple-labeling/#simplelabeling-pointslabelingexamples) for examples.
 
 

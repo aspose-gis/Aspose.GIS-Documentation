@@ -18,7 +18,7 @@ Major supported file formats are:
 - Databases (PostGis, Sql Server)
 - GeoTIFF
 
-See [Supported File Formats](/gis/net/supported-file-formats-html/) for the full list.
+See [Supported File Formats](/gis/net/supported-file-formats/) for the full list.
 # **Read and Write Vector Data**
 - Read vector data
   - Iterate through layer features
@@ -42,7 +42,7 @@ See [Supported File Formats](/gis/net/supported-file-formats-html/) for the full
 - Control visual representation of a feature by layer rendering rules
 - Calculate styling parameters of a feature basing on values of its attributes
 
-See [Map Rendering](/gis/net/map-rendering-html/) for details.
+See [Map Rendering](/gis/net/map-rendering/) for details.
 # **Manipulate Geometries**
 - Create points, lines, and polygons from scratch
 - Edit existing geometries

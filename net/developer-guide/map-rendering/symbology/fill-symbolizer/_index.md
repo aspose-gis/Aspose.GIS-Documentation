@@ -57,4 +57,4 @@ Here's how to change styling:
 
 
 -----
-You might also want to add labels to your polygons. Visit [Lines Labeling Examples](/gis/net/simple-labeling-html/#simplelabeling-lineslabelingexamples) for examples on how to label polygons border or [Points Labeling Examples](/gis/net/simple-labeling/#simplelabeling-pointslabelingexamples) on exmaples on how to label polygons centers.
+You might also want to add labels to your polygons. Visit [Lines Labeling Examples](/gis/net/simple-labeling/#simplelabeling-lineslabelingexamples) for examples on how to label polygons border or [Points Labeling Examples](/gis/net/simple-labeling/#simplelabeling-pointslabelingexamples) on exmaples on how to label polygons centers.

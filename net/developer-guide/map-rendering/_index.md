@@ -28,7 +28,7 @@ First, we instantiate a [Map ](https://apireference.aspose.com/net/gis/aspose.gi
 
 Notice that the Map is enclosed into the using statement. This is necessary because the map keeps track of all resources added to it, and disposes them when we’re done with rendering and Map object is disposed.
 
-Next, we add a layer from a file to the map. Each layer is rendered on top of the previous layer, in the order in which they were added to the map. See more details about how to open vector layers [here](/gis/net/working-with-vector-layers-html/).
+Next, we add a layer from a file to the map. Each layer is rendered on top of the previous layer, in the order in which they were added to the map. See more details about how to open vector layers [here](/gis/net/working-with-vector-layers/).
 
 Finally, we call [Map.Render](https://apireference.aspose.com/net/gis/aspose.gis.rendering.map/render/methods/1) to render the map into a file. We specify a path to where to save the result file and a renderer to use. Class [Renderers ](https://apireference.aspose.com/net/gis/aspose.gis.rendering/renderers)contains references to all renderers included with Aspose.GIS. For example, you can specify Renderers.Png instead of Renderers.Svg in the example above to render the map into a PNG file
 ## **Advanced Styling**
