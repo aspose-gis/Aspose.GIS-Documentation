@@ -11,8 +11,7 @@ This page contains release notes information for [Aspose.GIS for .NET 20.10](htt
 
 {{% /alert %}} 
 ## **Major Features**
-- Add ClusterMarker symbolizer
-- Support Metered Licensing
+- Add Features in Existing Shapefile
 ## **Full List of Issues Covering all Changes in this Release**
 
 |**Key**|**Summary**|**Category**|
