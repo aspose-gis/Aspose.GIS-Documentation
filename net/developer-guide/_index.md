@@ -5,7 +5,7 @@ url: /net/developer-guide/
 weight: 20
 ---
 
-- [Vector Layers](/gis/net/vactor-layers/)
+- [Vector Layers](/gis/net/vector-layers/)
 - [Raster Layers](/gis/net/raster-layers/)
 - [Databases](/gis/net/databases/)
 - [Web Tiles](/gis/net/web-tiles/)

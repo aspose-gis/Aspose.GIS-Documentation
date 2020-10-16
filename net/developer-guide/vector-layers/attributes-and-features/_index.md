@@ -1,5 +1,5 @@
 ---
-title: "Working with Attributes and Features"
+title: "Attributes and Features"
 type: docs
 url: /net/attributes-and-features/
 weight: 20

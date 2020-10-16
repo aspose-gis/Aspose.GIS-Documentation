@@ -1,5 +1,5 @@
 ---
-title: "Working with Geometries"
+title: "Geometries"
 type: docs
 url: /net/geometries/
 weight: 30
