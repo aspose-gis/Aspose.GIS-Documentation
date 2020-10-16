@@ -2,7 +2,7 @@
 title: "Web Tiles"
 type: docs
 url: /net/web-tiles/
-weight: 60
+weight: 40
 ---
 
 ## **Working with XYZ Tiles**

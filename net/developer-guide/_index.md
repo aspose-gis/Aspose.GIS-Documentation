@@ -5,8 +5,11 @@ url: /net/developer-guide/
 weight: 20
 ---
 
-- [Opening, Creating and Converting](/gis/net/opening-creating-and-converting/)
-- [Working with Vector Data](/gis/net/working-with-vector-data/)
+- [Vector Layers](/gis/net/vactor-layers/)
+- [Raster Layers](/gis/net/raster-layers/)
+- [Databases](/gis/net/databases/)
+- [Web Tiles](/gis/net/web-tiles/)
 - [Geoprocessing](/gis/net/geoprocessing/)
 - [Map Rendering](/gis/net/map-rendering/)
 - [Spatial Reference Systems](/gis/net/spatial-reference-systems/)
+- [Streams and Remote Storage](/gis/net/streams-and-remote-storage/)

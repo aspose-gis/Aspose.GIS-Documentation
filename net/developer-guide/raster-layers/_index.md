@@ -1,8 +1,8 @@
 ---
-title: "Working with Raster Layers"
+title: "Raster Layers"
 type: docs
 url: /net/raster-layers/
-weight: 40
+weight: 20
 ---
 
 ## **Working with multi-band raster on GeoTIFF samples**

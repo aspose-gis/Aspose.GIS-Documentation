@@ -2,7 +2,7 @@
 title: "Streams and Remote Storage"
 type: docs
 url: /net/streams-and-remote-storage/
-weight: 20
+weight: 70
 ---
 
 ## **Working with Multi-File Formats**

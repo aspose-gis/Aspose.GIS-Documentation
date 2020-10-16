@@ -1,5 +1,5 @@
 ---
-title: "Working with Databases"
+title: "Databases"
 type: docs
 url: /net/databases/
 weight: 30
