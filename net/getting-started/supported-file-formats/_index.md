@@ -40,6 +40,16 @@ The following table indicates the raster formats that Aspose.GIS for .NET can on
 | :- | :- | :- |
 |Geo TIFF, TIFF|.tiff, .tif|![ok-supported](ok.png)|
 |Esri ASCII|.ascii|![ok-supported](ok.png)|
+## **Web Tiles**
+The following web tile formats can be loaded from the Internet:
+
+
+
+|**Format**|**Description**|
+| :- | :- |
+|XYZ Tiles|Slippy Maps|
+
+
 ## **Map Rendering Formats**
 Maps can be rendered into the following formats:
 
