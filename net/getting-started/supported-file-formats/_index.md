@@ -17,7 +17,7 @@ The following table indicates the vector formats that Aspose.GIS for .NET can re
 |ESRI File Geodatabase (FileGDB)|.gdb|![ok-supported](ok.png)|![ok-supported](ok.png)|
 |Geography Markup Language|.gml|![ok-supported](ok.png)| |
 |Keyhole Markup Language|.kml|![ok-supported](ok.png)|![ok-supported](ok.png)|
-|GPS Exchange Format|.gpx|![ok-supported](ok.png)| |
+|GPS Exchange Format|.gpx|![ok-supported](ok.png)|![ok-supported](ok.png)|
 |TopoJSON|.json, .topojson|![ok-supported](ok.png)|![ok-supported](ok.png)|
 |MapInfo Interchange Format|.mif|![ok-supported](ok.png)| |
 |MapInfo TAB format|.tab, .dat, .dbf, .map, .id|![ok-supported](ok.png)|![ok-supported](ok.png)|
