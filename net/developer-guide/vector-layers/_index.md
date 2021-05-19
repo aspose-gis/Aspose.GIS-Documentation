@@ -9,5 +9,4 @@ weight: 10
 - [Attributes and Features](/gis/net/attributes-and-features/)
 - [Filtering and Indexing](/gis/net/filtering-and-indexing/)
 - [Formats Conversion](/gis/net/conversion/)
-- [Geometries](/gis/net/geometries/)
 

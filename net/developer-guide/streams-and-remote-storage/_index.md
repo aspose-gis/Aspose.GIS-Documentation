@@ -17,9 +17,7 @@ You can specify how to perform file operations for your storage by implementing 
 The Aspose.GIS Examples repository contains an example of a fully-functional implementation of a custom abstract path for Azure Blob Storage. This showcase shows how to read a shapefile directly from Azure Blob Storage. You can find it here: <https://github.com/aspose-gis/Aspose.GIS-for-.NET/tree/master/Showcases/Azure_Blob_Integration_by_Aspose_Gis_for_NET>.
 ## **Single-file formats (GeoJSON, KML)**
 GIS data formats like GeoJSON and KML can store all data for a layer in a single file. If you can obtain a stream for the file, you can skip implementing a custom abstract path, and use method [AbstractPath.FromStream()](https://apireference.aspose.com/net/gis/aspose.gis/abstractpath/methods/fromstream) to instantiate an abstract path for the stream.
-#### **Read a file from a stream**
+### **Read a file from a stream**
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Examples-CSharp-Layers-ReadGeoJsonFromStream-ReadGeoJsonFromStream.cs" >}}
-#### **Write a file to a stream**
-
-
+### **Write a file to a stream**
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Examples-CSharp-Layers-WriteGeoJsonToStream-WriteGeoJsonToStream.cs" >}}
