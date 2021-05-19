@@ -5,4 +5,6 @@ url: /net/geoprocessing/
 weight: 30
 ---
 
-### **Articles in this section**
+- [Geometries](/gis/net/geometries/)
+- [Geometry Validation](/gis/net/geometry-validation/)
+- [Processing Geometries](/gis/net/processing-geometries/)

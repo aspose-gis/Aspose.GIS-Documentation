@@ -2,11 +2,8 @@
 title: "Geometries"
 type: docs
 url: /net/geometries/
-weight: 30
+weight: 5
 ---
-
--SetSpatialReferenceSystemForGeometry
-
 
 ## **Working with Point Geometry**
 ### **Create Point**
