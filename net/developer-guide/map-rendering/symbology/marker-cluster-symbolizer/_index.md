@@ -16,3 +16,13 @@ Here’s the result:
 
 ![points cluster](points-cluster.png)
 
+## **Draw Total Of Items**
+
+This sample displays total of items in the cluster.
+
+{{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Examples-CSharp-Rendering-RenderMap-ClusterTextSymbolizer.cs" >}}
+
+Here’s the result:
+
+![digits cluster](digits-cluster.png)
+
