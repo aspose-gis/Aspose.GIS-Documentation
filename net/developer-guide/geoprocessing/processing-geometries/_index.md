@@ -45,6 +45,8 @@ weight: 20
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Examples-CSharp-Geometries-GetLengthOfGeometry-GetLengthOfGeometry.cs" >}}
 ## **Get Point on Surface**
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Examples-CSharp-Geometries-GetPointOnSurface-GetPointOnSurface.cs" >}}
+## **Replace Polygons By Lines**
+{{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Examples-CSharp-Geometries-ReplacePolygonsByLines-ReplacePolygonsByLines.cs" >}}
 ## **Working with WKT and WKB Geometries**
 ### **Translate Geometry from WKT**
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Examples-CSharp-Geometries-TranslateGeometryFromWkt-TranslateGeometryFromWkt.cs" >}}
