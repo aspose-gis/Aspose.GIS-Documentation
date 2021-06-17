@@ -2,7 +2,7 @@
 title: "Filtering and Indexing"
 type: docs
 url: /net/filtering-and-indexing/
-weight: 10
+weight: 30
 ---
 
 With Aspose.GIS for .NET you can filter layers by attribute values or spatial bounds. You can also use indices to speed up filtering and spatial queries.

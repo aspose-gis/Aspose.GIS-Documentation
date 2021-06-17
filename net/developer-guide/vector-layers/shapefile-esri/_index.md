@@ -1,8 +1,8 @@
 ---
-title: "Read, Create and Edit"
+title: "Shapefile Format"
 type: docs
-url: /net/read-create-and-edit/
-weight: 20
+url: /net/shapefile-esri/
+weight: 70
 ---
 
 ## **Create ShapeFile**
