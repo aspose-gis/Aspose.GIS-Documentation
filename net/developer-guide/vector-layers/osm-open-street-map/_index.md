@@ -5,9 +5,7 @@ url: /net/osm-open-street-map/
 weight: 60
 ---
 
-- [KML - Keyhole Markup Language](/gis/net/kml-keyhole-markup-language/)
-- [GPX - GPS Exchange Format](/gis/net/gpx-gps-exchange/)
-- [GML - Geography Markup Language](/gis/net/gml-geography-markup-language/)
-- [OSM - Open Street Map](/gis/net/osm-open-street-map/)
-- [Shapefile Format](/gis/net/shapefile-esri/)
-- [GDB ESRI File](/gis/net/gdb-file-esri/)
+## **Working with OpenStreetMap (OSM) XML Files**
+Aspose.GIS lets you open and read features from OpenStreetMap (OSM) XML files. At present, the API doesn't provide the facility to create new OSM XML file and only reading is supported.
+### **Reading Features from OSM XML File**
+{{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Examples-CSharp-Layers-ReadFeaturesFromOSMXML-ReadFeaturesFromOSMXML.cs" >}}
