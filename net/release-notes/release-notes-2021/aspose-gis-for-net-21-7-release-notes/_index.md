@@ -13,12 +13,14 @@ This page contains release notes information for [Aspose.GIS for .NET 21.7](http
 ## **Major Features**
 - Write data to CSV
 - Add options for CSV
+- Crop Raster Layer
 - Fix bugs in KML, GML
 ## **Full List of Issues Covering all Changes in this Release**
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 |GISNET-1229|Write data to CSV|Feature|
+|GISNET-1219|Crop Raster Layer using Vector Shape|Feature|
 |GISNET-1237|Add geometry options to CSV|Feature|
 |GISNET-1233|Add delimiters options to read CSV|Feature|
 |GISNET-1234|Add record and fields options to read CSV|Feature|

@@ -22,6 +22,7 @@ The following table indicates the vector formats that Aspose.GIS for .NET can re
 |MapInfo Interchange Format|.mif|![ok-supported](ok.png)| |
 |MapInfo TAB format|.tab, .dat, .dbf, .map, .id|![ok-supported](ok.png)|![ok-supported](ok.png)|
 |OpenStreetMap (OSM) XML|.osm|![ok-supported](ok.png)| |
+|Comma-Separated Values|.csv|![ok-supported](ok.png)|![ok-supported](ok.png)|
 ## **Databases**
 The following table indicates the supported databases.
 
