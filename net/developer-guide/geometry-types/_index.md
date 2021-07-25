@@ -1,5 +1,5 @@
 ---
-title: "Geometry types"
+title: "Geometry Types"
 type: docs
 url: /net/geometry-types/
 weight: 30
@@ -9,5 +9,7 @@ weight: 30
 - [Geometry Accessors](/gis/net/geometry-accessors/)
 - [Geometry Validation](/gis/net/geometry-validation/)
 - [Geometry Relations](/gis/net/geometry-relations/)
+- [WKT geometry - Well-Known Text](/gis/net/wkt-geometry/)
+- [WKB geometry - Well-Known Binary](/gis/net/wkb-geometry/)
 - [Curved Geometries](/gis/net/curved-geometries/)
 - [Convert Coordinates](/gis/net/convert-coordinates/)

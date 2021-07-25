@@ -1,5 +1,5 @@
 ---
-title: "Geometries Accessors"
+title: "Geometry Accessors"
 type: docs
 url: /net/geometry-accessors/
 weight: 7

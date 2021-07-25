@@ -1,5 +1,5 @@
 ---
-title: "Geometries Constructors"
+title: "Geometry Constructors"
 type: docs
 url: /net/geometry-constructors/
 weight: 5

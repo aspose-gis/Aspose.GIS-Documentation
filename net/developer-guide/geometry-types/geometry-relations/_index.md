@@ -47,20 +47,7 @@ weight: 20
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Examples-CSharp-Geometries-GetPointOnSurface-GetPointOnSurface.cs" >}}
 ## **Replace Polygons By Lines**
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Examples-CSharp-Geometries-ReplacePolygonsByLines-ReplacePolygonsByLines.cs" >}}
-## **Working with WKT and WKB Geometries**
-### **Translate Geometry from WKT**
-{{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Examples-CSharp-Geometries-TranslateGeometryFromWkt-TranslateGeometryFromWkt.cs" >}}
-### **Translate Geometry to WKT**
-{{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Examples-CSharp-Geometries-TranslateGeometryToWkt-TranslateGeometryToWkt.cs" >}}
-### **Specify WKT Variant on Translation**
-{{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Examples-CSharp-Geometries-SpecifyWktVariantOnTranslation-SpecifyWktVariantOnTranslation.cs" >}}
-### **Translate Geometry from WKB**
-{{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Examples-CSharp-Geometries-TranslateGeometryFromWkb-TranslateGeometryFromWkb.cs" >}}
-### **Translate Geometry to WKB**
-{{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Examples-CSharp-Geometries-TranslateGeometryToWkb-TranslateGeometryToWkb.cs" >}}
-### **Specify WKB Variant on Translation**
-{{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Examples-CSharp-Geometries-SpecifyWkbVariantOnTranslation-SpecifyWkbVariantOnTranslation.cs" >}}
-### **Convert Geometry to Editable**
+## **Convert Geometry to Editable**
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Examples-CSharp-Geometries-ConvertGeometryToEditable-ConvertGeometryToEditable.cs" >}}
 ## **Working with TopoJSON**
 ### **Access features in TopoJSON**

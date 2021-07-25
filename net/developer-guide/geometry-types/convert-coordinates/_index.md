@@ -2,7 +2,7 @@
 title: "Convert Coordinates"
 type: docs
 url: /net/convert-coordinates/
-weight: 30
+weight: 70
 ---
 
 Aspose.GIS API lets you calculate and parse a position in a variety of formats.
