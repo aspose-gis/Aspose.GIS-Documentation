@@ -2,7 +2,7 @@
 title: "Conversion Examples"
 type: docs
 url: /net/conversion/
-weight: 40
+weight: 50
 ---
 
 ## **Convert Shape File to GeoJSON**

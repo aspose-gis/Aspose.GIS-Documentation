@@ -19,3 +19,5 @@ The examples show how to access geometry data.
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Examples-CSharp-Geometries-CountPointsInGeometry-CountPointsInGeometry.cs" >}}
 ## **Set Spatial Reference System for Geometry**
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Examples-CSharp-SpatialReferencingSystem-SetSpatialReferenceSystemForGeometry-SetSpatialReferenceSystemForGeometry.cs" >}}
+## **Convert Geometry to Editable**
+{{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Examples-CSharp-Geometries-ConvertGeometryToEditable-ConvertGeometryToEditable.cs" >}}

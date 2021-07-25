@@ -10,7 +10,9 @@ Common:
 - [Read, Create and Edit](/gis/net/read-create-and-edit/)
 - [Attributes and Features](/gis/net/attributes-and-features/)
 - [Filtering and Indexing](/gis/net/filtering-and-indexing/)
+- [Geometry Precision Reducing](/gis/net/geometry-precision-reducing/)
 - [Conversion Examples](/gis/net/conversion/)
+
 
 Formats:
 
