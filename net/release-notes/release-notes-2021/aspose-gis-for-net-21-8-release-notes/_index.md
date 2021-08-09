@@ -24,7 +24,7 @@ This page contains release notes information for [Aspose.GIS for .NET 21.8](http
 |GISNET-1227|Read Nested Attributes as List|Feature|
 |GISNET-1251|Supports reading UTF-16 Encoding for GPX|Enhancement|
 |GISNET-651|Supports combined icon styles in KML|Enhancement|
-|GISNET-1257|Transfor geometry using the lyar SRS for Crop|Enhancement|
+|GISNET-1257|Transform geometry using the layar SRS for Crop|Enhancement|
 |GISNET-1258|Fix rendering Cropped and Warped layers|Bug|
 |GISNET-1267|Fix reading by index for KML|Bug|
 |GISNET-1256|Fix reading of empty CSV|Bug|
