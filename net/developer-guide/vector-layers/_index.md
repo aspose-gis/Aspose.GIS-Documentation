@@ -12,6 +12,7 @@ Common:
 - [Filtering and Indexing](/gis/net/filtering-and-indexing/)
 - [Geometry Precision Reducing](/gis/net/geometry-precision-reducing/)
 - [Conversion Examples](/gis/net/conversion/)
+- [Join Layers](/gis/net/join-layers/)
 
 
 Formats:
