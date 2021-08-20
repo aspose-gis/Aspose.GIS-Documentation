@@ -9,9 +9,9 @@ Use the Aspose.GIS for .NET library to transform WGS84 to UTM.
 
 ## **Live Example**
 
-Aspose.GIS for .NET presents you online free application [WGS84 to UTM](https://products.aspose.app/gis/transformation/wgs84-to-utm), where you may try to investigate the functionality and quality it works.
+Aspose.GIS for .NET presents you online free the ["WGS84 to UTM"](https://products.aspose.app/gis/transformation/wgs84-to-utm) application, where you may try to investigate the functionality and quality it works.
 
-![transformation coordinates app](https://docs.aspose.com/gis/net/showcases/transformation/transformation-app.png)
+![transformation coordinates app](transform-coordinates.png)
 
 ## **Code sample - Convert WGS84 to UTM**
 

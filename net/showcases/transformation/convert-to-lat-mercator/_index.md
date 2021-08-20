@@ -9,9 +9,9 @@ Use the Aspose.GIS for .NET library to transform from any spatial reference syst
 
 ## **Live Example**
 
-Aspose.GIS for .NET presents you online free application ["Convert to MERCATOR"](https://products.aspose.app/gis/transformation/convert-to-lat-mercator), where you may try to investigate the functionality and quality it works.
+Aspose.GIS for .NET presents you online free the ["Convert to MERCATOR"](https://products.aspose.app/gis/transformation/convert-to-lat-mercator) application, where you may try to investigate the functionality and quality it works.
 
-![transformation coordinates app](https://docs.aspose.com/gis/net/showcases/transformation/transformation-app.png)
+![transformation coordinates app](transform-coordinates.png)
 
 ## **Code sample - Convert to MERCATOR**
 
