@@ -5,15 +5,15 @@ url: /net/lat-long-to-mercator/
 weight: 60
 ---
 
-Aspose.GIS API lets you transform LAT LONG to MERCATOR.
+Use the Aspose.GIS for .NET library to transform LAT LONG to MERCATOR.
 
 ## **Live Example**
 
-Aspose.GIS for .NET presents you online free application [�LAT LONG to MERCATOR�](https://products.aspose.app/gis/transformation/lat-long-to-mercator), where you may try to investigate the functionality and quality it works.
+Aspose.GIS for .NET presents you online free application [LAT LONG to MERCATOR](https://products.aspose.app/gis/transformation/lat-long-to-mercator), where you may try to investigate the functionality and quality it works.
 
-![ok-supported](../transformation-app.png)
+![transformation coordinates app](https://docs.aspose.com/gis/net/showcases/transformation/transformation-app.png)
 
-## **Code sample**
+## **Code sample - Convert LAT LONG to MERCATOR**
 
 The following code snippet shows you how to convert LAT LONG to MERCATOR for a point.
 
