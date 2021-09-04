@@ -22,6 +22,6 @@ The sample uses the specified style to draw lines. The library also has styles f
 
 This sample show general possibilities. Aspose.GIS for .NET has wide features to [render maps](https://docs.aspose.com/gis/net/map-rendering/).
 
-## **Platform - .NET / C# **
+## **Platform - .NET / C#**
 
 We supports Framework 4.7 or later under Windows, and .NET Core 2.0 or later under Windows or Linux
