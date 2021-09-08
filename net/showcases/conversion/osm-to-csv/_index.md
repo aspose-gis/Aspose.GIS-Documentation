@@ -1,21 +1,21 @@
 ---
-title: "osm to CSV Converter"
+title: "OSM to CSV Converter"
 type: docs
 url: /net/osm-to-csv/
 weight: 70
 ---
 
-Use the Aspose.GIS for .NET library to convert osm to CSV file format.
+Use the Aspose.GIS for .NET library to convert OSM to CSV file format.
 
 ## **Live Example**
 
-Aspose.GIS for .NET / C# presents you online free the ["osm to CSV Converter"](https://products.aspose.app/gis/conversion/osm-to-csv) application, where you may to investigate the functionality and quality it works.
+Aspose.GIS for .NET / C# presents you online free the ["OSM to CSV Converter"](https://products.aspose.app/gis/conversion/osm-to-csv) application, where you may to investigate the functionality and quality it works.
 
-![osm to CSV Converter App](conversion.png)
+![OSM to CSV Converter App](conversion.png)
 
-## **Code sample - osm to CSV Converter**
+## **Code sample - OSM to CSV Converter**
 
-The following code snippet shows you how to implement osm to CSV Converter. If you specify a spatial reference system for the destination CSV layer, all geometries will be converted to it. 
+The following code snippet shows you how to implement OSM to CSV Converter. If you specify a spatial reference system for the destination CSV layer, all geometries will be converted to it. 
 
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Showcase-CSharp-osm-to-csv.cs" >}}
 
