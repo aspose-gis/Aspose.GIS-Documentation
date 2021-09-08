@@ -5,7 +5,7 @@ url: /net/json-to-kml/
 weight: 70
 ---
 
-Use the Aspose.GIS for .NET library to convert JSON to KML file fromat.
+Use the Aspose.GIS for .NET library to convert JSON to KML file format.
 
 ## **Live Example**
 

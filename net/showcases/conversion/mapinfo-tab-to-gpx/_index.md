@@ -5,7 +5,7 @@ url: /net/mapinfo-tab-to-gpx/
 weight: 70
 ---
 
-Use the Aspose.GIS for .NET library to convert MapInfo-TAB to GPX file fromat.
+Use the Aspose.GIS for .NET library to convert MapInfo-TAB to GPX file format.
 
 ## **Live Example**
 

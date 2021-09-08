@@ -5,7 +5,7 @@ url: /net/gml-to-shp/
 weight: 70
 ---
 
-Use the Aspose.GIS for .NET library to convert GML to SHP file fromat.
+Use the Aspose.GIS for .NET library to convert GML to SHP file format.
 
 ## **Live Example**
 

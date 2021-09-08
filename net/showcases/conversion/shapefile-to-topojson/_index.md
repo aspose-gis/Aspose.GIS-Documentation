@@ -5,7 +5,7 @@ url: /net/shapefile-to-topojson/
 weight: 70
 ---
 
-Use the Aspose.GIS for .NET library to convert Shapefile to TopoJSON file fromat.
+Use the Aspose.GIS for .NET library to convert Shapefile to TopoJSON file format.
 
 ## **Live Example**
 

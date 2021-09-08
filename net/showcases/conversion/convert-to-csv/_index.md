@@ -5,7 +5,7 @@ url: /net/convert-to-csv/
 weight: 70
 ---
 
-Use the Aspose.GIS for .NET library to convert to CSV file fromat.
+Use the Aspose.GIS for .NET library to convert to CSV file format from other popular vector-based gis files.
 
 ## **Live Example**
 

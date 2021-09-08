@@ -5,7 +5,7 @@ url: /net/convert-to-kml/
 weight: 70
 ---
 
-Use the Aspose.GIS for .NET library to convert to KML file fromat.
+Use the Aspose.GIS for .NET library to convert to KML file format from other popular vector-based gis files.
 
 ## **Live Example**
 

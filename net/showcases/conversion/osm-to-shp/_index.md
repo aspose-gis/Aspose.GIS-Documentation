@@ -5,7 +5,7 @@ url: /net/osm-to-shp/
 weight: 70
 ---
 
-Use the Aspose.GIS for .NET library to convert OSM to SHP file fromat.
+Use the Aspose.GIS for .NET library to convert OSM to SHP file format.
 
 ## **Live Example**
 

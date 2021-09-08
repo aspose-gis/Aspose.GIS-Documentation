@@ -5,7 +5,7 @@ url: /net/kml-to-json/
 weight: 70
 ---
 
-Use the Aspose.GIS for .NET library to convert KML to GeoJSON file fromat.
+Use the Aspose.GIS for .NET library to convert KML to GeoJSON file format.
 
 ## **Live Example**
 

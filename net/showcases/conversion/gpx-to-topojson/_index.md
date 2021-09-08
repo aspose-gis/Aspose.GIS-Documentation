@@ -5,7 +5,7 @@ url: /net/gpx-to-topojson/
 weight: 70
 ---
 
-Use the Aspose.GIS for .NET library to convert GPX to TopoJSON file fromat.
+Use the Aspose.GIS for .NET library to convert GPX to TopoJSON file format.
 
 ## **Live Example**
 

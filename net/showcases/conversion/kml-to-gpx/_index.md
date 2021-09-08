@@ -5,7 +5,7 @@ url: /net/kml-to-gpx/
 weight: 70
 ---
 
-Use the Aspose.GIS for .NET library to convert KML to GPX file fromat.
+Use the Aspose.GIS for .NET library to convert KML to GPX file format.
 
 ## **Live Example**
 

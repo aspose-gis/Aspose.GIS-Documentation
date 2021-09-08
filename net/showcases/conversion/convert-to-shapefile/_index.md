@@ -5,7 +5,7 @@ url: /net/convert-to-shapefile/
 weight: 70
 ---
 
-Use the Aspose.GIS for .NET library to convert to Shapefile file fromat.
+Use the Aspose.GIS for .NET library to convert to Shapefile file format from other popular vector-based gis files.
 
 ## **Live Example**
 

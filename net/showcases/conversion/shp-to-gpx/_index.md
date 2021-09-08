@@ -5,7 +5,7 @@ url: /net/shp-to-gpx/
 weight: 70
 ---
 
-Use the Aspose.GIS for .NET library to convert SHP to GPX file fromat.
+Use the Aspose.GIS for .NET library to convert SHP to GPX file format.
 
 ## **Live Example**
 

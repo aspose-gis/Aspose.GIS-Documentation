@@ -5,7 +5,7 @@ url: /net/geojson-to-gpx/
 weight: 70
 ---
 
-Use the Aspose.GIS for .NET library to convert GeoJSON to GPX file fromat.
+Use the Aspose.GIS for .NET library to convert GeoJSON to GPX file format.
 
 ## **Live Example**
 

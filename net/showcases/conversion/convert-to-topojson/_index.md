@@ -5,7 +5,7 @@ url: /net/convert-to-topojson/
 weight: 70
 ---
 
-Use the Aspose.GIS for .NET library to convert to TopoJSON file fromat.
+Use the Aspose.GIS for .NET library to convert to TopoJSON file format from other popular vector-based gis files.
 
 ## **Live Example**
 

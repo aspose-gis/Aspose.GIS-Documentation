@@ -5,7 +5,7 @@ url: /net/osm-to-kml/
 weight: 70
 ---
 
-Use the Aspose.GIS for .NET library to convert OSM to KML file fromat.
+Use the Aspose.GIS for .NET library to convert OSM to KML file format.
 
 ## **Live Example**
 

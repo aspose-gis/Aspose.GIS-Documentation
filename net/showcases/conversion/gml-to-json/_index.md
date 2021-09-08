@@ -5,7 +5,7 @@ url: /net/gml-to-json/
 weight: 70
 ---
 
-Use the Aspose.GIS for .NET library to convert GML to JSON file fromat.
+Use the Aspose.GIS for .NET library to convert GML to JSON file format.
 
 ## **Live Example**
 

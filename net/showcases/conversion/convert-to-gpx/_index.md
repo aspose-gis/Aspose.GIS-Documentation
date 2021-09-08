@@ -5,7 +5,7 @@ url: /net/convert-to-gpx/
 weight: 70
 ---
 
-Use the Aspose.GIS for .NET library to convert to GPX file fromat.
+Use the Aspose.GIS for .NET library to convert to GPX file format from other popular vector-based gis files.
 
 ## **Live Example**
 

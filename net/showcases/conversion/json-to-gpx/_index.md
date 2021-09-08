@@ -5,7 +5,7 @@ url: /net/json-to-gpx/
 weight: 70
 ---
 
-Use the Aspose.GIS for .NET library to convert JSON to GPX file fromat.
+Use the Aspose.GIS for .NET library to convert JSON to GPX file format.
 
 ## **Live Example**
 

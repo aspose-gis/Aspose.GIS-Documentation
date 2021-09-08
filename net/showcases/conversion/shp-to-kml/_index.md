@@ -5,7 +5,7 @@ url: /net/shp-to-kml/
 weight: 70
 ---
 
-Use the Aspose.GIS for .NET library to convert SHP to KML file fromat.
+Use the Aspose.GIS for .NET library to convert SHP to KML file format.
 
 ## **Live Example**
 

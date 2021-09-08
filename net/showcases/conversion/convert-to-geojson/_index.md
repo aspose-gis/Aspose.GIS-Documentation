@@ -5,7 +5,7 @@ url: /net/convert-to-geojson/
 weight: 70
 ---
 
-Use the Aspose.GIS for .NET library to convert to GeoJSON file fromat.
+Use the Aspose.GIS for .NET library to convert to GeoJSON file format from other popular vector-based gis files.
 
 ## **Live Example**
 

@@ -5,7 +5,7 @@ url: /net/geojson-to-csv/
 weight: 70
 ---
 
-Use the Aspose.GIS for .NET library to convert GeoJSON to CSV file fromat.
+Use the Aspose.GIS for .NET library to convert GeoJSON to CSV file format.
 
 ## **Live Example**
 

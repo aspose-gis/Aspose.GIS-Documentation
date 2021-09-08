@@ -5,7 +5,7 @@ url: /net/csv-to-gdb/
 weight: 70
 ---
 
-Use the Aspose.GIS for .NET library to convert CSV to GDB file fromat.
+Use the Aspose.GIS for .NET library to convert CSV to GDB file format.
 
 ## **Live Example**
 

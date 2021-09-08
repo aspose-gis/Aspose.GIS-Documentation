@@ -5,7 +5,7 @@ url: /net/kml-to-shapefile/
 weight: 70
 ---
 
-Use the Aspose.GIS for .NET library to convert KML to Shapefile file fromat.
+Use the Aspose.GIS for .NET library to convert KML to Shapefile file format.
 
 ## **Live Example**
 

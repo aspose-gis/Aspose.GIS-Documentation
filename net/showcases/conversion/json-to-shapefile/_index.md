@@ -5,7 +5,7 @@ url: /net/json-to-shapefile/
 weight: 70
 ---
 
-Use the Aspose.GIS for .NET library to convert JSON to Shapefile file fromat.
+Use the Aspose.GIS for .NET library to convert JSON to Shapefile file format.
 
 ## **Live Example**
 

@@ -5,7 +5,7 @@ url: /net/gdb-to-shp/
 weight: 70
 ---
 
-Use the Aspose.GIS for .NET library to convert GDB to SHP file fromat.
+Use the Aspose.GIS for .NET library to convert GDB to SHP file format.
 
 ## **Live Example**
 

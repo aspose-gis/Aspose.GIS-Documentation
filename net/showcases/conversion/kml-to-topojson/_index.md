@@ -5,7 +5,7 @@ url: /net/kml-to-topojson/
 weight: 70
 ---
 
-Use the Aspose.GIS for .NET library to convert KML to TopoJSON file fromat.
+Use the Aspose.GIS for .NET library to convert KML to TopoJSON file format.
 
 ## **Live Example**
 
