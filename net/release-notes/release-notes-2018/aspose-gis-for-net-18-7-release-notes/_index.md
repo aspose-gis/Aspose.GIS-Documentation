@@ -13,8 +13,8 @@ This page contains release notes information for [Aspose.GIS for .NET 18.7](http
 ## **Major Features**
 Major features and improvements in this release:
 
-- Reading data in [GML format](/gis/net/working-with-layers/#workingwithlayers-workingwithgeographymarkuplanguage-gml)
-- Reading data in [ESRI File Geodatabase](/gis/net/working-with-layers/#workingwithlayers-workingwithesrifilegeodatabases-filegdb) format
+- Reading data in GML format
+- Reading data in ESRI File Geodatabase format
 ## **List of Improvements**
 
 |**Key**|**Summary**|**Category**|

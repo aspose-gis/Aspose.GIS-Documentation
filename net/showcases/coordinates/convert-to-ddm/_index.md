@@ -11,7 +11,7 @@ Use the Aspose.GIS for .NET library to calculate a position in a Decimal Degree 
 
 Aspose.GIS for .NET / C# presents you online free the ["Convert to DDM"](https://products.aspose.app/gis/coordinates/convert-to-ddm) application, where you may to investigate the functionality and quality it works.
 
-![DDM to {Extension2} Converter App](conversion.png)
+![DDM to {Extension2} Converter App](coordinates.png)
 
 ## **Code sample - Convert to DDM**
 

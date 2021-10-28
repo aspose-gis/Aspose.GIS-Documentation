@@ -11,7 +11,7 @@ Use the Aspose.GIS for .NET library to calculate a position in a Military Grid R
 
 Aspose.GIS for .NET / C# presents you online free the ["Convert to MGRS"](https://products.aspose.app/gis/coordinates/convert-to-mgrs) application, where you may to investigate the functionality and quality it works.
 
-![MGRS to {Extension2} Converter App](conversion.png)
+![MGRS to {Extension2} Converter App](coordinates.png)
 
 ## **Code sample - Convert to MGRS**
 

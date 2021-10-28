@@ -11,7 +11,7 @@ Use the Aspose.GIS for .NET library to calculate a position in a United States N
 
 Aspose.GIS for .NET / C# presents you online free the ["Convert to USNG"](https://products.aspose.app/gis/coordinates/convert-to-usng) application, where you may to investigate the functionality and quality it works.
 
-![USNG to {Extension2} Converter App](conversion.png)
+![USNG to {Extension2} Converter App](coordinates.png)
 
 ## **Code sample - Convert to USNG**
 

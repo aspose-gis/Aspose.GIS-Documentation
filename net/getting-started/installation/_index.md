@@ -17,7 +17,7 @@ To install Aspose.GIS, you use either the Package Manager UI or the Package Mana
 
 ![todo:image_alt_text](installation_2.png)
 
-1. Familiarize with [Aspose End User License Agreement](http://www.aspose.com/corporate/purchase/end-user-license-agreement.aspx).
+1. Familiarize with [Aspose End User License Agreement](https://about.aspose.com/legal/eula).
 1. If prompted to review changes, select **OK**.
 #### **Package Manager Console**
 1. Select the **Tools** > **NuGet Package Manager** > **Package Manager Console** menu command.
@@ -73,7 +73,7 @@ Operating systems: 
   - SUSE Enterprise Linux (SLES) 12 Service Pack 2 or later
   - Alpine Linux 3.7 or later versions
 
-More details available in the .NET Core Guide: [Windows Prerequisites](https://docs.microsoft.com/en-us/dotnet/core/windows-prerequisites?tabs=netcore2x), [macOS Prerequisites](https://docs.microsoft.com/en-us/dotnet/core/macos-prerequisites?tabs=netcore2x), [Linux Prerequisites](https://docs.microsoft.com/en-us/dotnet/core/linux-prerequisites?tabs=netcore2x).
+More details available in the .NET Core Guide: [Windows Prerequisites](https://docs.microsoft.com/en-us/dotnet/core/install/windows?tabs=netcore21#dependencies), [macOS Prerequisites](https://docs.microsoft.com/en-us/dotnet/core/install/macos?tabs=netcore2x#dependencies), [Linux Prerequisites](https://docs.microsoft.com/en-us/dotnet/core/install/linux?tabs=netcore2x).
 ##### **Experimental Support**
 - Mono 5.4 or later
 - Xamarin:

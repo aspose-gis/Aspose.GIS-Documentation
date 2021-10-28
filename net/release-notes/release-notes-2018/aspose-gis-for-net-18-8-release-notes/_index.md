@@ -13,9 +13,9 @@ This page contains release notes information for Aspose.GIS for .NET 18.8.
 ## **Major Features**
 Major features and improvements in this release:
 
-- [Creating new layers in ESRI File Geodatabase datasets](/gis/net/working-with-layers/#workingwithlayers-addlayertofilegdbdataset).
-- [Deleting layers from ESRI File Geodatabase datasets](/gis/net/working-with-layers/#workingwithlayers-removelayerfromfilegdbdataset).
-- [Creating new ESRI File Geodatabase datasets](/gis/net/working-with-layers/#workingwithlayers-createfilegdbdataset).
+- Creating new layers in ESRI File Geodatabase datasets.
+- Deleting layers from ESRI File Geodatabase datasets.
+- Creating new ESRI File Geodatabase datasets.
 ## **Full List of Issues Covering all Changes in this Release**
 
 |**Key**|**Summary**|**Category**|

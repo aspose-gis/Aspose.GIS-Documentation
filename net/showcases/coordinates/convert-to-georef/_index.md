@@ -11,7 +11,7 @@ Use the Aspose.GIS for .NET library to calculate a position in a World Geographi
 
 Aspose.GIS for .NET / C# presents you online free the ["Convert to GeoRef"](https://products.aspose.app/gis/coordinates/convert-to-georef) application, where you may to investigate the functionality and quality it works.
 
-![GeoRef to {Extension2} Converter App](conversion.png)
+![GeoRef to {Extension2} Converter App](coordinates.png)
 
 ## **Code sample - Convert to GeoRef**
 

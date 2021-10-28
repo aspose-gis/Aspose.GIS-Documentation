@@ -20,8 +20,8 @@ Major features and improvements in this release:
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 |GISNET-134|[Geometry Validation](/gis/net/geometry-validation/)|New Feature|
-|GISNET-139|Streamline [handling of Null values](/gis/net/working-with-attributes-and-features/#workingwithattributesandfeatures-getvalueordefaultvalueoffeature)|Improvement|
-|GISNET-135|[Keyhole Markup Language](/gis/net/working-with-layers/#workingwithlayers-workingwithkmlfiles) (KML)|New Feature|
+|GISNET-139|Streamline handling of Null values|Improvement|
+|GISNET-135|Keyhole Markup Language (KML)|New Feature|
 |GISTNET-157|Handle empty geometries|Improvement|
 |GISNET-162|Members added to geometry collection accommodate dimension|Bug|
 ## **Public API and Backward Incompatible Changes**
