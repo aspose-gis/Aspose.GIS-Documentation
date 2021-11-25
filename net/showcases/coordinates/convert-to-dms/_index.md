@@ -11,7 +11,7 @@ Use the Aspose.GIS for .NET library to calculate a position in a Degree Minute S
 
 Aspose.GIS for .NET / C# presents you online free the ["Convert to DMS"](https://products.aspose.app/gis/coordinates/convert-to-dms) application, where you may to investigate the functionality and quality it works.
 
-![DMS to {Extension2} Converter App](conversion.png)
+![DMS to {Extension2} Converter App](coordinates.png)
 
 ## **Code sample - Convert to DMS**
 

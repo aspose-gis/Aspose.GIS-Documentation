@@ -14,10 +14,10 @@ This page contains release notes information for Aspose.GIS for .NET 18.4.
 Major features and improvements in this release:
 
 - Spatial reference systems support
-  - [Work with WKT](/gis/net/working-with-spatial-reference-system/#workingwithspatialreferencesystem-workingwithwkt) - Import spatial reference systems from WKT and export spatial reference systems to WKT
-  - Create vector layers with [spatial reference system](/gis/net/working-with-layers/#workingwithlayers-createvectorlayerwithspatialreferencesystem)
+  - Work with WKT - Import spatial reference systems from WKT and export spatial reference systems to WKT
+  - Create vector layers with spatial reference system
   - Set desired spatial reference system when converting between layers
-  - Transform [geometries](/gis/net/working-with-geometries/#workingwithgeometries-setspatialreferencesystemforgeometry) between spatial reference systems
+  - Transform geometries between spatial reference systems
 ## **Features and Improvements**
 
 |**Key**|**Summary**|**Category**|

@@ -13,12 +13,12 @@ This page contains release notes information for Aspose.GIS for .NET 18.10.
 ## **Major Features**
 Major features and improvements in this release:
 
-- [Reading OBJECTID from FIleGDB Layers](/gis/net/working-with-layers/#workingwithlayers-readobjectidfromfilegdbdatasetlayer)
-- [](/gis/net/working-with-geometries/#workingwithgeometries-getdistancebetweengeometries)[Computing distance between Geometries](/gis/net/working-with-geometries/#workingwithgeometries-getdistancebetweengeometries)
-- [Computing areas and lengths of Geometries](/gis/net/working-with-geometries/#workingwithgeometries-getareaofgeometry)
-- [Computing convex hull of Geometries](/gis/net/working-with-geometries/#workingwithgeometries-getconvexhullofgeometry)
-- [Computing centroid of Geometries](/gis/net/working-with-geometries/#workingwithgeometries-getcentroid)
-- [Building a buffer of Geometries](/gis/net/working-with-geometries/#workingwithgeometries-getgeometrybuffer) 
+- Reading OBJECTID from FIleGDB Layers
+- Computing distance between Geometries
+- Computing areas and lengths of Geometries
+- Computing convex hull of Geometries
+- Computing centroid of Geometries
+- Building a buffer of Geometries
 
 Fixes:
 
@@ -28,14 +28,14 @@ Fixes:
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-|GISNET-210|[Geometry Buffer Operation](/gis/net/working-with-geometries/#workingwithgeometries-getgeometrybuffer)|New Feature|
-|GISNET-213|[Compute Distance between Geometries](/gis/net/working-with-geometries/#workingwithgeometries-getdistancebetweengeometries)|New Feature|
-|GISNET-214|[Geometry Convex Hull Operation](/gis/net/working-with-geometries/#workingwithgeometries-getconvexhullofgeometry)|New Feature|
-|GISNET-215|[Geometry Area and Length Operations](/gis/net/working-with-geometries/#workingwithgeometries-getareaofgeometry)|New Feature|
-|GISNET-216|[Geometry Centroid Operation](/gis/net/working-with-geometries/#workingwithgeometries-getcentroid)|New Feature|
-|GISNET-217|[A point on Surface Operation](/gis/net/working-with-geometries/#workingwithgeometries-getpointonsurface)|New Feature|
-|GISNET-218|[Covers and CoveredBy operations](/gis/net/working-with-geometries/#workingwithgeometries-determineifonegeometrycoversanother)|New Feature|
-|GISNET-221|[Read OBJECTID from FileGDB layers](/gis/net/working-with-layers/#workingwithlayers-readobjectidfromfilegdbdatasetlayer)|Improvement|
+|GISNET-210|Geometry Buffer Operation |New Feature|
+|GISNET-213|Compute Distance between Geometries|New Feature|
+|GISNET-214|Geometry Convex Hull Operation|New Feature|
+|GISNET-215|Geometry Area and Length Operations|New Feature|
+|GISNET-216|Geometry Centroid Operation|New Feature|
+|GISNET-217|A point on Surface Operation|New Feature|
+|GISNET-218|Covers and CoveredBy operations|New Feature|
+|GISNET-221|Read OBJECTID from FileGDB layers|Improvement|
 |GISNET-222|Unable to Compute Union|Bug|
 |GISNET-226|Shape distortion in GDB|Bug|
 ## **Public API and Backward Incompatible Changes**

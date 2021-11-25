@@ -25,6 +25,6 @@ Major features and improvements in this release:
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-|GISNET-175|Support for [reading GPS exchange format (GPX)](/gis/net/working-with-layers/#workingwithlayers-workingwithgpsexchangefile-gpx-files)|New Feature|
+|GISNET-175|Support for reading GPS exchange format (GPX)|New Feature|
 |GISNET-173|.NET Standard 2.0|New Feature|
 

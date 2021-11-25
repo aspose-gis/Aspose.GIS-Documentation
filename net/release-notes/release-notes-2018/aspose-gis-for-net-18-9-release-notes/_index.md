@@ -19,9 +19,9 @@ Major features and improvements in this release:
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-|GISNET-206|[Spatial Predicates](/gis/net/working-with-geometries/#workingwithgeometries-comparegeometries)|New Feature|
-|GISNET-207|[Overlay Operations](/gis/net/working-with-geometries/#workingwithgeometries-findoverlayofgeometries) (Intersection, Union, Difference, Symmetric Difference)|New Feature|
-|GISNET-212|[Handle Geometries Precision](/gis/net/working-with-geometries/#workingwithgeometries-workingwithgeometryprecision)|New Feature|
+|GISNET-206|Spatial Predicates|New Feature|
+|GISNET-207|Overlay Operations (Intersection, Union, Difference, Symmetric Difference)|New Feature|
+|GISNET-212|Handle Geometries Precision|New Feature|
 |GISNET-211|Error while loading GDB|Bug|
 |GISNET-209|CreateFromWkt fails on projected SRS|Bug|
 ## **Public API and Backward Incompatible Changes**

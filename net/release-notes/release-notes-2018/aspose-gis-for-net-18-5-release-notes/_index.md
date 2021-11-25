@@ -17,7 +17,7 @@ This page contains release notes information for Aspose.GIS for .NET 18.5.
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-|GISNET-176|[OpenStreetMap XML](/gis/net/working-with-layers/#workingwithlayers-readingfeaturesfromosmxmlfile) (OSM XML) support.|New Feature|
+|GISNET-176|OpenStreetMap XML (OSM XML) support.|New Feature|
 |GISNET-183|Fix types, returned from 'Clone' method of MultiLineStirng, MultiPoint and MultiPolygon.|Bug|
 ## **Public API and Backward Incompatible Changes**
 
