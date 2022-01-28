@@ -1,6 +1,7 @@
 ---
 title: Aspose.GIS for .NET
 type: docs
+description: Aspose.GIS for .NET is designed specifically to make it easy for .NET developers to work with geospatial data stored in various file formats. It lets you create, read, convert geographic data and render maps without having to install any other GIS software.
 weight: 10
 url: /net/
 is_root: true
