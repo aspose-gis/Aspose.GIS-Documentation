@@ -1,5 +1,6 @@
 ---
 title: "Supported File Formats"
+second_title: Aspose.GIS for .NET
 type: docs
 url: /net/supported-file-formats/
 weight: 20
