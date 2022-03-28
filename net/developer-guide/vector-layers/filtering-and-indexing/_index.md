@@ -1,8 +1,11 @@
 ---
-title: "Filtering and Indexing"
+title: Filtering and Indexing GIS Vector Layers in C#
+linktitle: Filtering and Indexing
+second_title: Aspose.GIS for .NET
 type: docs
 url: /net/filtering-and-indexing/
 weight: 30
+description: With GIS C# .NET Library or API, you can filter GIS vector layers by attribute values or spatial bounds. You can also use indices to speed up filtering and spatial queries.
 ---
 
 With Aspose.GIS for .NET you can filter layers by attribute values or spatial bounds. You can also use indices to speed up filtering and spatial queries.
