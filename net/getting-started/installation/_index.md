@@ -1,6 +1,6 @@
 ---
 title: "Installation"
-second_title: Aspose.SVG for .NET
+second_title: Aspose.GIS for .NET
 type: docs
 url: /net/installation/
 weight: 40
