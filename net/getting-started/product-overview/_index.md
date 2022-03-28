@@ -1,5 +1,6 @@
 ---
 title: "Product Overview"
+second_title: Aspose.GIS for .NET
 type: docs
 url: /net/product-overview/
 weight: 10
