@@ -1,8 +1,10 @@
 ---
-title: "Vector Layers"
+title: Work with GIS Vector Layers in C#
+linktitle: "Vector Layers"
 type: docs
 url: /net/vector-layers/
 weight: 10
+description: Work with GIS Vector Layers in C# Library. Common features include Read, Create and Edit, Filtering, Indexing, Conversion Examples and Join Layers and formats include KML, GPX, GML, OSM, Shapefile, TopoJSON.
 ---
 
 Common:
