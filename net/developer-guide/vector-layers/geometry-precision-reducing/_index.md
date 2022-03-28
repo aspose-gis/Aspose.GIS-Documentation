@@ -1,8 +1,10 @@
 ---
-title: "Geometry Precision Reducing"
+title: Geometry Precision Reducing using C# GIS Library
+linktitle: Geometry Precision Reducing
 type: docs
 url: /net/geometry-precision-reducing/
 weight: 40
+description: Limit Precision while writing or reading Geometries with C# GIS Library.
 ---
 
 Working with Geometry Precision
