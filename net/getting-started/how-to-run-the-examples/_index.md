@@ -1,8 +1,11 @@
 ---
 title: "How to Run the Examples"
+second_title: Aspose.GIS for .NET 
 type: docs
 url: /net/how-to-run-the-examples/
 weight: 60
+keywords: c# gis library, .net gis library
+description: Download and run the examples of C# .NET GIS Library from GitHub using NuGet Package Manager in Visual Studio.
 ---
 
 ## **Software Requirements**
