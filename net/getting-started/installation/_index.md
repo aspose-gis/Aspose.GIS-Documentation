@@ -51,14 +51,14 @@ Aspose.GIS includes two variants of the assembly built for
 
 
 -----
-##### **.NET Framework v4.7 or later**
+### **.NET Framework v4.7 or later**
 Operating systems: 
 
 - Microsoft Windows 10, 8, 7 SP1
 - Microsoft Windows Server 2016, 2012 R2, 2012, 2008 R2 SP1
 
 ` `Both 32 and 64 bit versions are supported.
-##### **.NET Core v2.0 or later**
+### **.NET Core v2.0 or later**
 ` `Operating systems:
 
 - Microsoft Windows 7 SP1, 8.1, 10 Anniversary Update (version 1607) or later versions
@@ -77,7 +77,7 @@ Operating systems: 
   - Alpine Linux 3.7 or later versions
 
 More details available in the .NET Core Guide: [Windows Prerequisites](https://docs.microsoft.com/en-us/dotnet/core/install/windows?tabs=netcore21#dependencies), [macOS Prerequisites](https://docs.microsoft.com/en-us/dotnet/core/install/macos?tabs=netcore2x#dependencies), [Linux Prerequisites](https://docs.microsoft.com/en-us/dotnet/core/install/linux?tabs=netcore2x).
-##### **Experimental Support**
+### **Experimental Support**
 - Mono 5.4 or later
 - Xamarin:
   - Xamarin.iOS: version 10.14  or later
