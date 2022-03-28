@@ -1,8 +1,11 @@
 ---
 title: "Licensing"
+second_title: Aspose.GIS for .NET
 type: docs
 url: /net/licensing/
 weight: 50
+keywords: c# gis library, .net gis library
+description: Evaluate C# .NET GIS library or API with some limitations. Apply License using File or Stream Object or as an Embedded Resource.
 ---
 
 ## **Evaluate Aspose.GIS for .NET**
