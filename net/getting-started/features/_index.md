@@ -1,5 +1,6 @@
 ---
 title: "Features"
+second_title: Aspose.GIS for .NET
 type: docs
 url: /net/features/
 weight: 30
