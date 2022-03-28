@@ -3,6 +3,8 @@ title: "Supported File Formats"
 type: docs
 url: /net/supported-file-formats/
 weight: 20
+keywords: GIS C# Library, GIS .NET API
+description: The vector formats that GIS C#.NET Library can read or write include ESRI Shapefile, GeoJSON, TopoJSON, Keyhole Markup Language, GPS Exchange Format, OpenStreetMap (OSM) XML and supports file formats like .shp, .shx, .dbf, .geojson, .gdb, .gml, .kml, .mif, .osm. 
 ---
 
 ## **Vector Formats**
