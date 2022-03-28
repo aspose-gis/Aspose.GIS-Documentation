@@ -3,6 +3,8 @@ title: "Features"
 type: docs
 url: /net/features/
 weight: 30
+keywords: GIS C# Library, GIS C# API, Read ShapeFile in C#
+description: GIS C#.NET Library or API supports formats Shapefile, GeoJSON, FileGDB, GML, KML, SVG, PostGis, Sql Server, GeoTIFF. It can read, write, convert and visualize vector data, manipulate geometries, perform analysis and lookup spatial reference systems by SRID.
 ---
 
 Aspose.GIS for .NET provides a rich set of features for working with data stored in common GIS file formats. You can read and write vector GIS data, convert between GIS file formats, create and analyze feature geometries, and render maps to SVG.
