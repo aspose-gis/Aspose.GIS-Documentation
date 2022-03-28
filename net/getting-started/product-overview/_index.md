@@ -3,6 +3,8 @@ title: "Product Overview"
 type: docs
 url: /net/product-overview/
 weight: 10
+keywords: GIS C# Library, GIS .NET Library, GIS C# API
+description: GIS C#.NET Library can be used to retrieve and edit geographic data in vector-based geo-spatial data formats. Most major GIS file formats, such as ESRI Shapefile, GeoJSON, KML, and GPX files, may be read, written, and converted from within your.NET applications without the need for any additional tools or software. Basic geometries such as Point, MultiPoint, Line, Multiline, and Polygon are supported by the API and can be used to construct complicated features in supported file formats.
 ---
 
 {{% alert color="primary" %}} 
