@@ -1,8 +1,11 @@
 ---
 title: "Installation"
+second_title: Aspose.SVG for .NET
 type: docs
 url: /net/installation/
 weight: 40
+keywords: c# gis library, .net gis library
+description: Install GIS C#.NET library or API from NuGet using Package Manager UI or Console, from ZIP Archive. It can also be used in .NET Core and Linux OS.
 ---
 
 ## **Install Aspose.GIS**
