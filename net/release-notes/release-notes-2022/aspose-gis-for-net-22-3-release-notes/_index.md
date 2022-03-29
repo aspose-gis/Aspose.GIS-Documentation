@@ -19,6 +19,7 @@ This page contains release notes information for [Aspose.GIS for .NET 22.3](http
 |GISNET-1329|Support Net 6.0|Enhancement|
 |GISNET-1317|Fix Aspose.Foundation Exception|Bug|
 |GISNET-1328|Fix Could not load file or assembly Aspose.Foundation|Bug|
+|GISNET-1302|Can't use license in Blazor Server app|Bug|
 ## **Public API and Backward Incompatible Changes**
 Following members have been added:
 
