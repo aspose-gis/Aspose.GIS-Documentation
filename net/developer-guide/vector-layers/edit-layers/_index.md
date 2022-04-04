@@ -1,8 +1,10 @@
 ---
-title: "Edit Layers"
+title: Edit Vector Layers using GIS C# Library
+linktitle: Edit Layers
 type: docs
 url: /net/edit-layers/
 weight: 51
+description: GIS C# Library or API lets you to edit vector layers as shown in the code snippet provided in this article.
 ---
 
 ## **Edit Vector Layers**
