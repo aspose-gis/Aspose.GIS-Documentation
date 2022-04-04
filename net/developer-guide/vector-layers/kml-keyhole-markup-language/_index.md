@@ -1,5 +1,6 @@
 ---
-title: "KML - Keyhole Markup Language"
+title: Manipulate or Generate KML File in C#
+linktitle: "KML - Keyhole Markup Language"
 type: docs
 url: /net/kml-keyhole-markup-language/
 weight: 60
