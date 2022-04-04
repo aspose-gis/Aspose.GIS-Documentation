@@ -1,8 +1,10 @@
 ---
-title: "Join Layers"
+title: Join Vector Layers using GIS C# Library
+linktitle: Join Layers
 type: docs
 url: /net/Join-layers/
 weight: 52
+description: The code snippets provided in the article can be used to join GIS vector layers using C# API.
 ---
 
 ## **Join Vector Layers**
