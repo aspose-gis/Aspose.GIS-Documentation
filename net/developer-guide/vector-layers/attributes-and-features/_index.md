@@ -1,8 +1,10 @@
 ---
-title: "Attributes and Features"
+title: Attributes and Features - C# GIS Library
+linktitle: Attributes and Features
 type: docs
 url: /net/attributes-and-features/
 weight: 50
+description: With C# GIS library, you can get Features Count, Layer Attributes, Values of a Feature Attribute and extract Features from ShapeFile to GeoJSON.
 ---
 
 ## **Get Features Count In Layer**
