@@ -1,8 +1,10 @@
 ---
-title: "GML - Geography Markup Language"
+title: Read GML Geography Markup Language files in C#
+linktitle: GML - Geography Markup Language
 type: docs
 url: /net/gml-geography-markup-language/
 weight: 60
+description: GIS C# Library provides the capability to read features from Geography Markup Language GML files and lets you specify the schema option in case there is one.
 ---
 
 ## **Geography Markup Language (GML)**
