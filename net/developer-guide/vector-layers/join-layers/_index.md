@@ -8,7 +8,7 @@ description: The code snippets provided in the article can be used to join GIS v
 ---
 
 ## **Join Vector Layers**
-Aspose.GIS API lets you to join vector layers as shown in the code snippet below.
+Aspose.GIS API lets you to join the vector layers as shown in the code snippet below.
 
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Examples-CSharp-Layers-JoinedLayer-JoinByName.cs" >}}
 
