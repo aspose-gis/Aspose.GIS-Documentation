@@ -1,8 +1,10 @@
 ---
-title: "Warp Raster Layers"
+title: Warp or Reproject Raster Layers in GIS using C#
+linktitle: Warp Raster Layers
 type: docs
 url: /net/warp-raster-layers/
 weight: 10
+description: As seen in the code snippet below, the GIS C# Library API allows you to convert, warp, or reproject a raster layer from one spatial reference to another and apply new sizes.
 ---
 
 ## **Reproject layer to WGS84 spatial reference on GeoTIFF samples**
