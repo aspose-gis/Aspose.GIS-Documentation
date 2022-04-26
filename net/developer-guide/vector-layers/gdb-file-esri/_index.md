@@ -1,8 +1,11 @@
 ---
-title: "GDB ESRI File"
+title: Work with Esri Gdb file format in C#
+linktitle: "GDB ESRI File"
 type: docs
 url: /net/gdb-file-esri/
 weight: 80
+keywords: esri gdb file format, c# read gdb file
+description: Using GIS C# libraray, you can read, work, convert or manipulate ESRI File GeoDatabases FileGDB format.
 ---
 
 ## **ESRI File GeoDatabases (FileGDB)**
