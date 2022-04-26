@@ -1,8 +1,10 @@
 ---
-title: "TopoJSON Format"
+title: Write or Access GIS Features from TopoJSON format in C#
+linktitle: "TopoJSON Format"
 type: docs
 url: /net/topo-json/
 weight: 90
+description: Using GIS C# library, you can read or access GIS Features from TopoJSON format and write them to it.
 ---
 
 Working with TopoJSON Format
