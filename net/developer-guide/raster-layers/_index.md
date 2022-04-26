@@ -1,8 +1,10 @@
 ---
-title: "Raster Layers"
+title: Work with Raster Layers using GIS C# Library
+linktitle: Raster Layers
 type: docs
 url: /net/raster-layers/
 weight: 20
+description: GIS C# Library lets you read or work with the GeoTIFF raster format which is one of the most widely used raster formats among GIS Software. 
 ---
 
 ## **Working with multi-band raster on GeoTIFF samples**
