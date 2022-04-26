@@ -1,8 +1,11 @@
 ---
-title: "Shapefile Format"
+title: Work and Generate Shapefile using C# library
+linktitle: "Shapefile Format"
 type: docs
 url: /net/shapefile-esri/
 weight: 70
+keywords: shapefile library c#, generate shapefile c#, esri shapefile c# library
+description: Using GIS C# Library API, you can create or generate new Esri ShapeFile and add information to it. You can also add new features in ShapeFile.
 ---
 
 ## **Create ShapeFile**
