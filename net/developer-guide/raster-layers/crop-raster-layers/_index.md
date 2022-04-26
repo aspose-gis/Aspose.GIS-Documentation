@@ -1,8 +1,10 @@
 ---
-title: "Crop Raster Layers"
+title: Crop Raster Layers using GIS C# Library
+linktitle: "Crop Raster Layers"
 type: docs
 url: /net/crop-raster-layers/
 weight: 10
+description: GIS C# Library or API lets you crop a raster layer using vector shape as shown in the code snippet below.
 ---
 
 ## **Crop using vector shape**
