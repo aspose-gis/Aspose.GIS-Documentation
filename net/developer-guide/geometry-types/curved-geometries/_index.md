@@ -1,11 +1,13 @@
 ---
-title: "Curved Geometries"
+title:  Work with Curved Geometries using GIS C# Library
+linktitle: "Curved Geometries"
 type: docs
 url: /net/curved-geometries/
 weight: 30
+description: GIS C# Library supports working with non-linear geometries, create circular string, compound curve, curved polygon, multi-curve, multi-surface and determine if geometry has curves.
 ---
 
-Aspose.GIS supports working with non-linear geometries, like CircularString and CurvePolygon. You may read and write curved geometries to FileGDB, WKT, WKB, and GML files.
+Aspose.GIS C# Library supports working with non-linear geometries, like CircularString and CurvePolygon. You may read and write curved geometries to FileGDB, WKT, WKB, and GML files.
 
 ## **Create a Circular String**
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Examples-CSharp-Geometries-CreateCircularString-CreateCircularString.cs" >}}
