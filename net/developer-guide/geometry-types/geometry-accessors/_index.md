@@ -3,6 +3,7 @@ title: "Geometry Accessors"
 type: docs
 url: /net/geometry-accessors/
 weight: 7
+description: You may iterate through Geometries and Points, get Geometry Type, count Points, and set Spatial Reference System using the GIS C# Library.
 ---
 
 The examples show how to access geometry data. 
