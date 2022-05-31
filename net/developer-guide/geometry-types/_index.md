@@ -1,8 +1,10 @@
 ---
-title: "Geometry Types"
+title: Geometry Types - GIS C# Library
+linktitle: Geometry Types
 type: docs
 url: /net/geometry-types/
 weight: 30
+description: Geometry Types of GIS C# Library cover topics such as Geometry Constructors, Accessors, Validation, Relations, Processings and Curved Geometries.
 ---
 
 - [Geometry Constructors](/gis/net/geometry-constructors/)
