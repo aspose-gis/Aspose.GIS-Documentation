@@ -3,12 +3,13 @@ title: "Map Rendering"
 type: docs
 url: /net/map-rendering/
 weight: 50
+description: With GIS C# API, you can render map from Shapefile, FileGDB, GeoJSON, KML formats, perform advance styling and draw map from raster formats. 
 ---
 
 ## **Map Rendering Overview**
-With Aspose.GIS for .NET you can render a map from a Shapefile, FileGDB, GeoJSON, KML or other [supported file formats](/gis/net/supported-file-formats/) to SVG, PNG, JPEG, or BMP.
+With Aspose.GIS for .NET C# API you can render a map from a Shapefile, FileGDB, GeoJSON, KML or other [supported file formats](/gis/net/supported-file-formats/) to SVG, PNG, JPEG, or BMP.
 
-Here’s how to render a map from a shapefile to SVG using default settings:
+Here is C# code illustrating how to render a map from a shapefile to SVG using default settings:
 
 
 
