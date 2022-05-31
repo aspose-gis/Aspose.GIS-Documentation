@@ -3,6 +3,7 @@ title: "Geometry Relations"
 type: docs
 url: /net/geometry-relations/
 weight: 20
+description: Using the GIS C# Library, you can see if Geometries are spatially equivalent, intersect, contain another geometry, touch or cross one other, overlap and get distance between them.
 ---
 
 Works with Geometry Relations/Relationships
