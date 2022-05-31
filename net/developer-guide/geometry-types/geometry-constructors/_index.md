@@ -3,6 +3,7 @@ title: "Geometry Constructors"
 type: docs
 url: /net/geometry-constructors/
 weight: 5
+description: You can work with Point Geometry, Line String Geometry, Poloygon Geometry, and construct Geometry Collections with the GIS C# Library.
 ---
 
 ## **Point Geometry**
