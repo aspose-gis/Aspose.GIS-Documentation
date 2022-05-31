@@ -3,6 +3,7 @@ title: "Geometry Validation"
 type: docs
 url: /net/geometry-validation/
 weight: 10
+description: GIS C# Library will let you check geometries for validity, for simple and validate geometries on writing while obeying specifications.
 ---
 
 Aspose.GIS API lets you validate geometries for a number of operations. It provides you with the capability to validate a geometry for rules related to Geometries as well as specifications by Geospatial file formats.
