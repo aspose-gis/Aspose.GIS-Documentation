@@ -1,8 +1,10 @@
 ---
-title: "Symbology"
+title: Symbology - C# GIS API
+linktitle: "Symbology"
 type: docs
 url: /net/symbology/
 weight: 10
+description: GIS C# Library or API supports symbolizers to draw feature geometry like Marker, Line, Fill and combining symbolizers to create more complex visualizations.
 ---
 
 A symbolizer is a way to draw a feature geometry on a map. 
