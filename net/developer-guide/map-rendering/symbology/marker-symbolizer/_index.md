@@ -35,7 +35,7 @@ Supported styling options:
 |[VerticalOffset](https://apireference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simplemarker/properties/verticaloffset)|Specifies vertical offset from a point location to the shape anchor point.|
 |[HorizontalAnchorPoint](https://apireference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simplemarker/properties/horizontalanchorpoint)|Specifies which side of a marker shape will be aligned horizontally with the point location.|
 |[VerticalAnchorPoint](https://apireference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simplemarker/properties/verticalanchorpoint)|Specifies which side of a marker shape will be aligned vertically with the point location.|
-#### **Geometry Types**
+### **Geometry Types**
 ` `The symbolizer can be applied to geometries of any type.
 
 |**Geometry Dimension**|**Geometry Types**|**Rendering Behavior**|
