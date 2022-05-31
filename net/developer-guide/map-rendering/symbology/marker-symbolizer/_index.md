@@ -3,6 +3,7 @@ title: "Marker Symbolizer"
 type: docs
 url: /net/marker-symbolizer/
 weight: 10
+description: GIS C# Library or API supports Simple Marker symbolizer that draws a predefined shape with customizable fill and outline on geometries of any type like Point, Line, Surface.
 ---
 
 ## **Marker Symbolizer**
