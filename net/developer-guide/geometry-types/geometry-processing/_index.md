@@ -3,6 +3,7 @@ title: "Geometry Processing"
 type: docs
 url: /net/geometry-processing/
 weight: 25
+description: You may reduce a geometry precision, get its area, centroid, convex hull, buffer, and length using the GIS C# Library.
 ---
 
 ## **Reduce Precision of a Geometry**
