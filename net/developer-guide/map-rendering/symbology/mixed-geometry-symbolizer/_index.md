@@ -3,6 +3,7 @@ title: "Mixed Geometry Symbolizer"
 type: docs
 url: /net/mixed-geometry-symbolizer/
 weight: 50
+description: Mixed Geometry Symbolizer in GIS C# Library API allows to specify symbolizers separately for each geometry type if a layer contains mixed geometry types.
 ---
 
 ## **Mixed Geometry Symbolizer**
