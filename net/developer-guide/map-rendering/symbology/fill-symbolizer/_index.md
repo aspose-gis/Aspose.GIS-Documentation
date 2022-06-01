@@ -3,6 +3,7 @@ title: "Fill Symbolizer"
 type: docs
 url: /net/fill-symbolizer/
 weight: 30
+description: GIS C# Library API supports Simple Fill symbolizer to fill style and stroke for 2-dimensional geometries polygons of any type like Point, Line, Surface.
 ---
 
 ## **Fill Symbolizer**
@@ -24,7 +25,7 @@ Supported styling options:
 |[StrokeLineJoin](https://apireference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simplefill/properties/strokelinejoin)|<p>Determines how lines are rendered at intersections of line segments.</p><p>- Miter - sharp corner</p><p>- Round - rounded corner</p><p>- Bevel - diagonal corner</p>|
 |[HorizontalOffset](https://apireference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simplefill/properties/horizontaloffset)|Specifies horizontal offset from a point location  to the shape anchor point.|
 |[VerticalOffset](https://apireference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simplefill/properties/verticaloffset)|Specifies vertical offset from a point location to the shape anchor point.|
-#### **Geometry Types**
+### **Geometry Types**
 ` `The symbolizer can be applied to geometries of any type.
 
 |**Geometry Dimension**|**Geometry Types**|**Rendering Behavior**|
