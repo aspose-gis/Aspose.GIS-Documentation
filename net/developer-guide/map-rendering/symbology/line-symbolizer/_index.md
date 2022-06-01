@@ -3,6 +3,7 @@ title: "Line Symbolizer"
 type: docs
 url: /net/line-symbolizer/
 weight: 20
+description: GIS C# Library or API supports Simple Line symbolizer for 1-dimensional geometries lines and can be applied on geometries of any type like Point, Line, Surface.
 ---
 
 ## **Line Symbolizer**
@@ -20,7 +21,7 @@ Supported styling options:
 |[DashOffset](https://apireference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simpleline/properties/dashoffset)|Specifies the distance from the start of a line to the beginning of a dash pattern.|
 |[CapStyle](https://apireference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simpleline/properties/capstyle)|<p>Specifies how lines are rendered at their ends.</p><p>- Butt - sharp square edge</p><p>- Round - rounded edge</p><p>- Square - slightly elongated square edge</p>|
 |[Offset](https://apireference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simpleline/properties/offset)|Specifies offset from the original line. For positive distance the offset will be at the left side of the input line (relative to the line direction). For a negative distance it'll be at the right side.|
-#### **Geometry Types**
+### **Geometry Types**
 ` `The symbolizer can be applied to geometries of any type.
 
 |**Geometry Dimension**|**Geometry Types**|**Rendering Behavior**|
