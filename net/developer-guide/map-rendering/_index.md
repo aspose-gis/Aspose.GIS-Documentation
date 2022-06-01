@@ -1,5 +1,6 @@
 ---
-title: "Map Rendering"
+title: Map Rendering to Image SVG, PNG, JPG using GIS C# Library
+linktitle: "Map Rendering"
 type: docs
 url: /net/map-rendering/
 weight: 50
