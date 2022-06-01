@@ -3,6 +3,7 @@ title: "Rule-Based Symbolizer"
 type: docs
 url: /net/rule-based-symbolizer/
 weight: 60
+description: Rule-Based Symbolizer in GIS C# Library or API applies other symbolizers to feature geometries based on arbitrary rules coded in C#.
 ---
 
 ## **Rule-Based Symbolizer**
