@@ -21,6 +21,7 @@ This page contains release notes information for [Aspose.GIS for .NET 22.6](http
 |GISNET-1346|Add Option DeleteNearPoints for Vector Layer|Feature|
 |GISNET-1343|Add Option CreateMidpoints for Vector Layer|Feature|
 |GISNET-1344|Add Option CloseLinearRing for Vector Layer|Feature|
+|GISNET-1335|Add Symbolizer Parameter in Geometry.AsImage|Enhancement|
 |GISNET-1330|Add Missed Closing Point on Writing|Bug|
 ## **Public API and Backward Incompatible Changes**
 Following members have been added:
