@@ -9,8 +9,8 @@ description: Layered symbolizer in GIS C# Library API draws a feature with sever
 ## **Layered Symbolizer**
 The Layered symbolizer draws a feature with several symbolizers on top of each other. You can select from two rendering order modes:
 
-- [RenderOrder.ByFeatures](https://apireference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/renderingorder) - draw the first feature with all symbolizers added to the layered symbolizer, then proceed with drawing the next feature.
-- [RenderOrder.ByLayers](https://apireference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/renderingorder) - draw all features with the first symbolizer, then draw all features with the next symbolizer.
+- [RenderOrder.ByFeatures](https://reference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/renderingorder) - draw the first feature with all symbolizers added to the layered symbolizer, then proceed with drawing the next feature.
+- [RenderOrder.ByLayers](https://reference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/renderingorder) - draw all features with the first symbolizer, then draw all features with the next symbolizer.
 ### **Rendering by Features**
 
 ### **Rendering by Layers**

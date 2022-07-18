@@ -19,7 +19,7 @@ The following code snippet shows you how to implement GDB to KML Converter. If y
 
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Showcase-CSharp-gdb-to-kml.cs" >}}
 
-This sample show general possibilities. Aspose.GIS for .NET has wide options to [convert files](https://docs.aspose.com/gis/net/vector-layers/). Each vector-based format has its own read/write options which is inherited from the [DriverOptions](https://apireference.aspose.com/gis/net/aspose.gis/driveroptions) class.
+This sample show general possibilities. Aspose.GIS for .NET has wide options to [convert files](https://docs.aspose.com/gis/net/vector-layers/). Each vector-based format has its own read/write options which is inherited from the [DriverOptions](https://reference.aspose.com/gis/net/aspose.gis/driveroptions) class.
 
 ## **Platform - .NET / C#**
 

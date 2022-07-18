@@ -15,16 +15,16 @@ Supported styling options:
 
 |**Property**|**Description**|
 | :- | :- |
-|[FillColor](https://apireference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simplefill/properties/fillcolor)|Specifies the color and transparency given to the fill.|
-|[FillStyle](https://apireference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simplefill/properties/fillstyle)|<p>- Solid - Solid fill</p><p>- None - Do not fill the polygon</p><p>- Horizontal Hatch - A pattern of horizontal lines.</p><p>- Vertical Hatch - A pattern of vertical lines.</p><p>- Cross Hatch - Specifies horizontal and vertical lines that cross.</p><p>- Forward Diagonal Hatch - A pattern of lines on a diagonal from upper left to lower right.</p><p>- Backward Diagonal Hatch - A pattern of lines on a diagonal from upper right to lower left.</p><p>- Diagonal Cross Hatch - A pattern of criss-cross diagonal lines.</p>|
-|[StrokeColor](https://apireference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simplefill/properties/strokecolor)|Specifies the color and transparency given to the stroke line.|
-|[StrokeStyle](https://apireference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simplefill/properties/strokestyle)|Specifies how the symbol linework should be drawn.|
-|[StrokeWidth](https://apireference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simplefill/properties/strokewidth)|Specifies the width of the stroke line.|
-|[StrokeDashPattern](https://apireference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simplefill/properties/strokedashpattern)|Specifies an array of distances that specifies the lengths of alternating dashes and spaces in dashed lines.|
-|[StrokeDashOffset](https://apireference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simplefill/properties/strokedashoffset)|Specifies the distance from the start of a line to the beginning of a dash pattern.|
-|[StrokeLineJoin](https://apireference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simplefill/properties/strokelinejoin)|<p>Determines how lines are rendered at intersections of line segments.</p><p>- Miter - sharp corner</p><p>- Round - rounded corner</p><p>- Bevel - diagonal corner</p>|
-|[HorizontalOffset](https://apireference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simplefill/properties/horizontaloffset)|Specifies horizontal offset from a point location  to the shape anchor point.|
-|[VerticalOffset](https://apireference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simplefill/properties/verticaloffset)|Specifies vertical offset from a point location to the shape anchor point.|
+|[FillColor](https://reference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simplefill/properties/fillcolor)|Specifies the color and transparency given to the fill.|
+|[FillStyle](https://reference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simplefill/properties/fillstyle)|<p>- Solid - Solid fill</p><p>- None - Do not fill the polygon</p><p>- Horizontal Hatch - A pattern of horizontal lines.</p><p>- Vertical Hatch - A pattern of vertical lines.</p><p>- Cross Hatch - Specifies horizontal and vertical lines that cross.</p><p>- Forward Diagonal Hatch - A pattern of lines on a diagonal from upper left to lower right.</p><p>- Backward Diagonal Hatch - A pattern of lines on a diagonal from upper right to lower left.</p><p>- Diagonal Cross Hatch - A pattern of criss-cross diagonal lines.</p>|
+|[StrokeColor](https://reference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simplefill/properties/strokecolor)|Specifies the color and transparency given to the stroke line.|
+|[StrokeStyle](https://reference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simplefill/properties/strokestyle)|Specifies how the symbol linework should be drawn.|
+|[StrokeWidth](https://reference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simplefill/properties/strokewidth)|Specifies the width of the stroke line.|
+|[StrokeDashPattern](https://reference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simplefill/properties/strokedashpattern)|Specifies an array of distances that specifies the lengths of alternating dashes and spaces in dashed lines.|
+|[StrokeDashOffset](https://reference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simplefill/properties/strokedashoffset)|Specifies the distance from the start of a line to the beginning of a dash pattern.|
+|[StrokeLineJoin](https://reference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simplefill/properties/strokelinejoin)|<p>Determines how lines are rendered at intersections of line segments.</p><p>- Miter - sharp corner</p><p>- Round - rounded corner</p><p>- Bevel - diagonal corner</p>|
+|[HorizontalOffset](https://reference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simplefill/properties/horizontaloffset)|Specifies horizontal offset from a point location  to the shape anchor point.|
+|[VerticalOffset](https://reference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simplefill/properties/verticaloffset)|Specifies vertical offset from a point location to the shape anchor point.|
 ### **Geometry Types**
 ` `The symbolizer can be applied to geometries of any type.
 

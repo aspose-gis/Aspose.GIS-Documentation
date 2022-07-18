@@ -5,7 +5,7 @@ url: /net/convert-to-dms/
 weight: 70
 ---
 
-Use the Aspose.GIS for .NET library to calculate a position in a Degree Minute Seconds (DMS) format. The [GeoConvert class](https://apireference.aspose.com/gis/net/aspose.gis/geoconvert) allows you to convert Latitude/Longitude coordinates to DMS format and vice versa.
+Use the Aspose.GIS for .NET library to calculate a position in a Degree Minute Seconds (DMS) format. The [GeoConvert class](https://reference.aspose.com/gis/net/aspose.gis/geoconvert) allows you to convert Latitude/Longitude coordinates to DMS format and vice versa.
 
 ## **Live Example**
 
