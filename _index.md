@@ -24,6 +24,6 @@ Following are the links to some useful resources you may need to accomplish your
 - [Aspose.GIS for .NET Product Page](https://products.aspose.com/gis/net/)
 - [Aspose.GIS for .NET Features](/gis/net/features/)
 - [Aspose.GIS for .NET Release Notes](/gis/net/release-notes/)
-- [Aspose.GIS for .NET API Reference Guide](https://apireference.aspose.com/gis/net)
+- [Aspose.GIS for .NET API Reference Guide](https://reference.aspose.com/gis/net)
 - [Aspose.GIS for .NET Free Support Forum](https://forum.aspose.com/c/gis/33)
 - [Aspose.GIS for .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)

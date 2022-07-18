@@ -5,7 +5,7 @@ url: /net/convert-to-georef/
 weight: 70
 ---
 
-Use the Aspose.GIS for .NET library to calculate a position in a World Geographic Reference System (GeoRef) format. The [GeoConvert class](https://apireference.aspose.com/gis/net/aspose.gis/geoconvert) allows you to convert Latitude/Longitude coordinates to GeoRef format and vice versa.
+Use the Aspose.GIS for .NET library to calculate a position in a World Geographic Reference System (GeoRef) format. The [GeoConvert class](https://reference.aspose.com/gis/net/aspose.gis/geoconvert) allows you to convert Latitude/Longitude coordinates to GeoRef format and vice versa.
 
 ## **Live Example**
 

@@ -13,14 +13,14 @@ Supported styling options:
 
 |**Property**|**Description**|
 | :- | :- |
-|[Color](https://apireference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simpleline/properties/color)|Specifies the color and transparency given to the line.|
-|[Width](https://apireference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simpleline/properties/width)|Specifies the width of the line|
-|[LineJoin](https://apireference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simpleline/properties/linejoin)|Determines how lines are rendered at intersections of line segments.|
-|[Style](https://apireference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simpleline/properties/style)|Specifies how the symbol linework should be drawn.|
-|[DashPattern](https://apireference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simpleline/properties/dashpattern)|Specifies an array of distances that specifies the lengths of alternating dashes and spaces in dashed lines.|
-|[DashOffset](https://apireference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simpleline/properties/dashoffset)|Specifies the distance from the start of a line to the beginning of a dash pattern.|
-|[CapStyle](https://apireference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simpleline/properties/capstyle)|<p>Specifies how lines are rendered at their ends.</p><p>- Butt - sharp square edge</p><p>- Round - rounded edge</p><p>- Square - slightly elongated square edge</p>|
-|[Offset](https://apireference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simpleline/properties/offset)|Specifies offset from the original line. For positive distance the offset will be at the left side of the input line (relative to the line direction). For a negative distance it'll be at the right side.|
+|[Color](https://reference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simpleline/properties/color)|Specifies the color and transparency given to the line.|
+|[Width](https://reference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simpleline/properties/width)|Specifies the width of the line|
+|[LineJoin](https://reference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simpleline/properties/linejoin)|Determines how lines are rendered at intersections of line segments.|
+|[Style](https://reference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simpleline/properties/style)|Specifies how the symbol linework should be drawn.|
+|[DashPattern](https://reference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simpleline/properties/dashpattern)|Specifies an array of distances that specifies the lengths of alternating dashes and spaces in dashed lines.|
+|[DashOffset](https://reference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simpleline/properties/dashoffset)|Specifies the distance from the start of a line to the beginning of a dash pattern.|
+|[CapStyle](https://reference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simpleline/properties/capstyle)|<p>Specifies how lines are rendered at their ends.</p><p>- Butt - sharp square edge</p><p>- Round - rounded edge</p><p>- Square - slightly elongated square edge</p>|
+|[Offset](https://reference.aspose.com/gis/net/aspose.gis.rendering.symbolizers/simpleline/properties/offset)|Specifies offset from the original line. For positive distance the offset will be at the left side of the input line (relative to the line direction). For a negative distance it'll be at the right side.|
 ### **Geometry Types**
 ` `The symbolizer can be applied to geometries of any type.
 
