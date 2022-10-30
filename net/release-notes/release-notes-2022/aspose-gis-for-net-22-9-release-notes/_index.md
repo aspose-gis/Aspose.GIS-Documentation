@@ -2,7 +2,7 @@
 title: "Aspose.GIS for .NET 22.9 Release Notes"
 type: docs
 url: /net/aspose-gis-for-net-22-9-release-notes/
-weight: 140
+weight: 100
 ---
 
 {{% alert color="primary" %}} 
