@@ -1,8 +1,8 @@
 ---
-title: "Release Notes 2021"
+title: "Release Notes 2022"
 type: docs
-url: /net/release-notes-2021/
-weight: 9
+url: /net/release-notes-2022/
+weight: 8
 ---
 
 
