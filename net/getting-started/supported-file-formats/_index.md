@@ -17,6 +17,7 @@ The following table indicates the vector formats that Aspose.GIS for .NET can re
 | :- | :- | :- | :- |
 |ESRI Shapefile|.shp, .shx, .dbf, .qix, .cpg|![ok-supported](ok.png)|![ok-supported](ok.png)|
 |GeoJSON|.json, .geojson|![ok-supported](ok.png)|![ok-supported](ok.png)|
+|GeoJSON Seq|.json, .geojson|![ok-supported](ok.png)|![ok-supported](ok.png)|
 |ESRI File Geodatabase (FileGDB)|.gdb|![ok-supported](ok.png)|![ok-supported](ok.png)|
 |Geography Markup Language|.gml|![ok-supported](ok.png)| |
 |Keyhole Markup Language|.kml|![ok-supported](ok.png)|![ok-supported](ok.png)|

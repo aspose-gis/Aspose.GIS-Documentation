@@ -8,7 +8,7 @@ description: C# GIS Library lets you open and read features from GPS Exchange Fi
 ---
 
 ## **Working with GPS Exchange File (GPX) Files**
-Aspose.GIS lets you open and read features from GPS Exchange File (GPX) files. At present, the API doesn't provide the facility to create a new GPX file and only reading is supported.
+Aspose.GIS lets you open and read features from GPS Exchange File (GPX) files.
 ## **Reading Features from GPX File**
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Examples-CSharp-Layers-GpxLayer-ReadGPXFeatures.cs" >}}
 ## **Reading Features for each point in segment**

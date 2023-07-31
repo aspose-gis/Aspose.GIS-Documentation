@@ -12,19 +12,18 @@ GeoTIFF is one of the most widely used raster formats among GIS Software. Aspose
 ### **Read general data in multi-band raster**
 {{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Examples-CSharp-Layers-InteractWithRasterFormats-ReadGeneralDataInGeoTiff.cs" >}}
 ### **Read values line by line**
-{{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Examples-CSharp-Layers-InteractWithRasterFormats-ReadValuesByLine.cs" >}}
+{{< gist "evgeniy-timofeev-aspose" "bf3543d44881bfd31b27a80173268d52" "raster-layers-ReadValuesByLine.cs" >}}
 ### **Read value of specified type**
-{{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Examples-CSharp-Layers-InteractWithRasterFormats-ReadValuesWithSpecifiedType.cs" >}}
+{{< gist "evgeniy-timofeev-aspose" "bf3543d44881bfd31b27a80173268d52" "raster-layers-ReadValuesWithSpecifiedType.cs" >}}
 ### **Analyze rasters values use LINQ or Expression methods**
+{{< gist "evgeniy-timofeev-aspose" "bf3543d44881bfd31b27a80173268d52" "raster-layers-ReadValuesByLine.cs" >}}
+### **Read raw bits in GoeTIFF**
+{{< gist "evgeniy-timofeev-aspose" "bf3543d44881bfd31b27a80173268d52" "raster-layers-ReadRawBytesInGeoTiff.cs" >}}
 
-
-{{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Examples-CSharp-Layers-InteractWithRasterFormats-AnalyzeValuesInGeoTiff.cs" >}}
-### **Read raw bits in rasters**
-{{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Examples-CSharp-Layers-InteractWithRasterFormats-ReadRawBytesInGeoTiff.cs" >}}
 ## **Working with single-band raster format on Esri ASCII samples**
 The EsriAscii format always has only one band.
 ### **Read general data in single-band raster**
-{{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Examples-CSharp-Layers-InteractWithRasterFormats-ReadSingleBandEsriAscii.cs" >}}
+{{< gist "evgeniy-timofeev-aspose" "bf3543d44881bfd31b27a80173268d52" "raster-layers-ReadSingleBandEsriAscii.cs" >}}
 
 
 
