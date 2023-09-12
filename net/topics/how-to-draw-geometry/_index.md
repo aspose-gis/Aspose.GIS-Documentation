@@ -5,8 +5,6 @@ url: /net/how-to-draw-geometry
 weight: 70
 ---
 
-# How to Draw Geometry on a Map
-
 To create and display geometric objects on a map, you need to start by **creating a geometry object**. There are two methods you can use:
 
 - **Constructor for Each Geometry Feature Type**

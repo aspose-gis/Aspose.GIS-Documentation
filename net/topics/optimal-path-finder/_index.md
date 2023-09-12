@@ -37,7 +37,7 @@ To determine the optimal route on the road network, several steps need to be tak
 
 It is important to note that the optimal path may depend on the chosen mode of transportation, as the speed of movement and the set of obstacles may vary. Therefore, different road and obstacle sets should be used for each type of transportation when searching for the optimal path.
 
-## Code examples
+## Demo Project on GitHub
 
 To better understand the functionality of our library, let's consider [an example of its use](https://github.com/aspose-gis/Aspose.GIS-for-.NET/tree/master/Apps/Geo.Tools.Paths). This code illustrates how to set up roads and obstacles in the pathfinding algorithm and find the optimal route.
 
