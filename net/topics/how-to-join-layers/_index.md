@@ -13,9 +13,7 @@ Let's suppose you have received data describing the percentage change in populat
 
 Typically, you perform data joins based on a field value that exists in both tables. The field names don't necessarily have to match, but the data types should be the same - numbers with numbers, strings with strings, and so on. You can execute the data join using the "Add Join" geoprocessing tool. When joining attributes, the joined fields are dynamically added to the existing table. Field properties such as aliases, visibility, and number formatting are preserved when adding or removing the join.
 
-## Data merging capabilities
-
-### Data joining by key field
+## Capabilities to join by key field
 
 - This approach allows you to **link records from different tables** based on a common key field. You can specify the key field to be used for comparison to establish the relationship between records. This is particularly useful when you need to merge data based on an identifier or another unique attribute.
 
@@ -27,7 +25,7 @@ Specifying a list of attribute names to be merged:
 
 - When merging data, you can specify **specific attributes** that should be merged. This allows you to choose only the necessary attributes for merging and manage the structure of the resulting table.
 
-### Spatial data joining:
+## Capabilities to join using geometry
 
 - This approach enables you to link data based on their **spatial location**. You can define a search radius within which the nearest geometric objects will be searched for merging. This is useful when you need to join data based on their geographical position.
 
@@ -77,7 +75,7 @@ The JoinOptions class provides a set of options for configuring layers joining. 
 
 - **JoinAttributeNames**: This option enables you to specify a list of attribute names that you want to join. If this list is left empty or set to null, all attributes from the joined layer will be included in the join operation. However, by selecting specific attribute names, you can control the attributes that are joined, which can be useful for optimizing memory usage and processing time.
 
-- **ConditionComparer**: This option allows you to define a custom logic for comparing attribute values between the features of the two layers. By default, it uses the EqualityComparer<object>.Default comparer, which checks for equality. However, you can provide your own custom comparer that implements IEqualityComparer for more specialized comparison requirements.
+- **ConditionComparer**: This option allows you to define a custom logic for comparing attribute values between the features of the two layers. By default, it uses the EqualityComparer.Default comparer, which checks for equality. However, you can provide your own custom comparer that implements IEqualityComparer for more specialized comparison requirements.
 
 - **JoinedAttributesPrefix**: This option lets you specify a prefix string for the attribute names of the joined layer. The default value is "joined_", which means that joined attributes will be prefixed with "joined_" in the resulting joined layer. This prefix helps differentiate joined attributes from the original attributes of the main layer.
 
@@ -89,7 +87,7 @@ The **JoinByGeometryOptions** class represents options for joining layers based 
 
 - **Radius**: This option specifies the radius within which the joined geometry will be searched. It determines the proximity within which features from the main layer will be matched with features from the joined layer based on their spatial relationship.
 
-- **ConditionComparer**: This option allows you to define a custom logic for comparing attribute values from the features of the two layers. By default, it uses the EqualityComparer<object>.Default, which checks for equality. However, you can provide your own custom comparer that implements IEqualityComparer for more specific comparison requirements.
+- **ConditionComparer**: This option allows you to define a custom logic for comparing attribute values from the features of the two layers. By default, it uses the EqualityComparer. Default, which checks for equality. However, you can provide your own custom comparer that implements IEqualityComparer for more specific comparison requirements.
 
 - **JoinedAttributesPrefix**: This option enables you to specify a prefix string for the attribute names of the joined layer. The default value is "joined_", which means that joined attributes will be prefixed with "joined_" in the resulting joined layer. This prefix helps differentiate joined attributes from the original attributes of the main layer.
 
