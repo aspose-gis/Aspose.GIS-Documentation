@@ -1,5 +1,5 @@
 ---
-title: "How to Join Layers: Unifying Geometric and Attribute Information for Insights"
+title: "How to Join Layers using Geometry or Attribute"
 type: docs
 url: /net/how-to-join-layers
 weight: 70
