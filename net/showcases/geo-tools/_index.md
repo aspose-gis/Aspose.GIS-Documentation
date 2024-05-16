@@ -9,5 +9,5 @@ description: GIS C# Library provides capabilities for working with GeoTools, suc
 
 In this section you can familiarize yourself with the features available in our library for working with GeoTools:
 
-- [Voronoi Diagram](/gis/net/voronoi-diagram/)
-- [Tiles Generator](/gis/net/generator-of-tile/)
+- [Voronoi Diagram](/gis/net/geo-tools/voronoi-diagram/)
+- [Tiles Generator](/gis/net/geo-tools/generator-of-tiles/)
