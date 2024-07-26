@@ -1,9 +1,9 @@
-# Tile generation, sliding map implementation.
+# Drawing a map. A sliding map with tiles.
 In this article, we want to show how, using the [Aspose.GIS](https://www.nuget.org/packages/Aspose.GIS/) library and public data, you can build a sliding map that will be generated in real-time. Thanks to the new library feature, we can now query GIS data from the database via SQL query. Here is what we should get as a result:
 
 ![Result](result.png)
  
-Repository address with source code: https://git.dev.dynabic.com/roman.charnashei/aspose.gis.tilestest
+Repository source code [here](https://github.com/aspose-gis/Aspose.GIS-for-.NET/tree/master/Showcases/Aspose.GIS.TilesTest).
 
 ## Data preparation.
 
