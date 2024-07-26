@@ -2,7 +2,7 @@
 title: "Draw a map. A sliding map with tiles."
 type: docs
 url: /net/showcases/sliding-map-with-tiles/
-description: "How to work with Voronoi Diagram using Aspose.GIS library"
+description: "How to draw tiles and build a sliding map from them."
 weight: 80
 aliases:
  - /net/showcases/tiles/
