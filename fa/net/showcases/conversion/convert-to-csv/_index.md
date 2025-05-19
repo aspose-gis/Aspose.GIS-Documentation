@@ -1,0 +1,26 @@
+---
+title: "تبدیل به CSV"
+type: docs
+url: /fa/net/convert-to-csv/
+weight: 70
+---
+
+از کتابخانه Aspose.GIS برای ‎.NET‎ برای تبدیل به فرمت فایل CSV از سایر فایل‌های gis برداری محبوب استفاده کنید.
+
+## **مثال زنده**
+
+Aspose.GIS for .NET / C# برنامه رایگان ["تبدیل به CSV"](https://products.aspose.app/gis/conversion/convert-to-csv) را به صورت آنلاین در اختیار شما قرار می‌دهد، جایی که می‌توانید عملکرد و کیفیت آن را بررسی کنید.
+
+![برنامه تبدیل به CSV](conversion.png)
+
+## **نمونه کد - تبدیل به CSV**
+
+قطعه کد زیر نحوه تبدیل به CSV را نشان می دهد. اگر یک سیستم مرجع مکانی برای لایه CSV مقصد مشخص کنید، همه هندسه‌ها به آن تبدیل می‌شوند. 
+
+{{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Showcase-CSharp-convert-to-csv.cs" >}}
+
+این نمونه امکانات کلی را نشان می دهد. Aspose.GIS برای ‎.NET‎ گزینه های گسترده ای برای [تبدیل فایل ها](https://docs.aspose.com/gis/net/vector-layers/) دارد. هر فرمت مبتنی بر بردار دارای گزینه های خواندن / نوشتن خاص خود است که از کلاس [DriverOptions](https://reference.aspose.com/gis/net/aspose.gis/driveroptions) به ارث می برد.
+
+## **پلتفرم - ‎.NET‎ / C#**
+
+ما از Framework 4.7 یا بالاتر در ویندوز، و ‎.NET Core‎ 2.0 یا بالاتر در ویندوز یا لینوکس پشتیبانی می‌کنیم.

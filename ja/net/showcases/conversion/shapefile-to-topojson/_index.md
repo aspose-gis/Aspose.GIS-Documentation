@@ -1,0 +1,26 @@
+---
+title: "Shapefile to TopoJSON Converter"
+type: docs
+url: /ja/net/shapefile-to-topojson/
+weight: 70
+---
+
+Aspose.GIS for .NETライブラリを使用して、ShapefileをTopoJSONファイル形式に変換します。
+
+## **ライブサンプル**
+
+Aspose.GIS for .NET / C#は、["Shapefile to TopoJSON Converter"](https://products.aspose.app/gis/conversion/shapefile-to-topojson)アプリケーションをオンラインで無料で提供しており、機能と品質を調査できます。
+
+![Shapefile to TopoJSON Converter App](conversion.png)
+
+## **コードサンプル - Shapefile to TopoJSON Converter**
+
+次のコードスニペットは、ShapefileからTopoJSONコンバーターを実装する方法を示しています。 目的のTopoJSONレイヤーに空間参照系を指定すると、すべてのジオメトリがそれに変換されます。 
+
+{{< gist "aspose-com-gists" "10f3783b9581d10bc69dbada42705d2c" "Showcase-CSharp-shapefile-to-topojson.cs" >}}
+
+このサンプルは一般的な可能性を示しています。 Aspose.GIS for .NETには、[ファイルを変換](https://docs.aspose.com/gis/net/vector-layers/)するための幅広いオプションがあります。 各ベクトルベースの形式には、[DriverOptions](https://reference.aspose.com/gis/net/aspose.gis/driveroptions)クラスから継承された独自の読み取り/書き込みオプションがあります。
+
+## **プラットフォーム - .NET / C#**
+
+WindowsではFramework 4.7以降を、WindowsまたはLinuxでは.NET Core 2.0以降をサポートしています。
